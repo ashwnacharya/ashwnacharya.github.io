@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "CIDRs"
+date:   2018-05-02 12:00:00 +0530
+---
+
+CIDR stands for Classless inter domain routing.
+
+Completely unintuitive name, but very useful. 
+
+Let us see what it does.
+
+
+#### Motivating example:
+
+Say you have a bunch of servers, that need to communicate to each other.
+You want to tell these servers, that you can trust all communications that are coming from its peers, which are again a certain bunch of computers.
+
+How do you specify that?
+
+
+One way is to hardcode the hostname or IP address of each computer.
+But that is unintuitive.
+
+A better way is to specify a range of IP addresses, and have all those related computers have IP addresses in that range.
+Now, how do you specify this range?
+
+One way, is you can specify the start and end address.
+Still, very unwieldy.
+
+Second way, you can specify the start and length.
+A little better, but doesn't help much in bitwise operations. 
+
+A bitwise friendly way is to specify a netmask.
+
+A netmask looks something like this:
+
+```
+255.255.255.240
+255.255.255.0
+255.255.0.0
+```
+etc.
+
+
+What do these mean?
+
+Let us take an example of `255.255.255.240`
+
+Now, let us convert it into binary.
+
+Here, each number separated by a dot is an octet, i.e. a binary number of length 8.
+
+So, we can convert the above netmask to binary.
+
+
+`255` in binary is `11111111`
+`240` in binary is `11110000`
+
+So,`255.255.255.240` is `11111111.11111111.11111111.11110000`
+
+Now, let us apply this netmask to an IP address `192.168.10.12`
+
+The above IP address in binary is 
+
+`11000000.10101000.00001010.00001100`
+
+
+Now, in order to apply a netmask, let us write binary representation of the mask and the IP address one below the other
+
+```
+Mask    11111111.11111111.11111111.11110000
+IP      11000000.10101000.00001010.00001100
+```
+
+Now, applying a netmask has only 2 rules. In the code block above, 
+
+1. anything below 1 in the mask, remains unchanged.
+2. anything below 0 in the mask, can change.
+
+
+Which means that, by applying the above netmask we can get a range of IP addresses 
+
+```
+Mask    11111111.11111111.11111111.11110000
+IP      11000000.10101000.00001010.00001100
+from    11000000.10101000.00001010.00000000
+to      11000000.10101000.00001010.00001111 
+```
+
+Now, what do these from and to binary addresses translate to in decimal?
+
+```
+11000000.10101000.00001010.00000000 is 192.168.10.0
+11000000.10101000.00001010.00001111 is 192.168.10.15
+```
+
+So, a netmask of `255.255.255.240` over an IP of `192.168.10.12` gives you a range of `[192.168.10.0, 192.168.10.15]`
+
+Now, the above representation can simplified even further.
+
+
+An IP address has 4 octets.
+Which is 32 binary digits.
+
+
+In a netmask of `255.255.255.240`, which in binary is `11111111.11111111.11111111.11110000`
+We have 28 ones, and 4 zeros.
+
+So, we can specify a range of IP addresses simply using an IP address, and the number of 1s to be masked.
+
+i.e. `192.168.10.12/28`
+
+
+What this simply means is that, for the IP address `192.168.10.12`, you can keep the first 28 1s in the binary representation static, and vary the last 4 1s.
+
+Now, if we are varying the last 4 ones, we get 2^4, i.e. 16 different addresses
+
+
+So:
+    A netmask of /28 means (32-28) = 4, so 2^4, i.e. 16 addresses.
+    A netmask of /24 means (32-24) = 8, so 2^8, i.e. 256 addresses.
+    A netmask of /32 means (32-32) = 0. so 2^0, i.e. 1 addess
