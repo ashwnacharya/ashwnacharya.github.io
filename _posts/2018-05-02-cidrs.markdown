@@ -19,14 +19,14 @@ You want to tell these servers, that you can trust all communications that are c
 How do you specify that?
 
 
-One way is to hardcode the hostname or IP address of each computer.
-But that is unintuitive.
+The most obvious way: hardcode the hostname or IP address of each computer.
+But that is just not scalable. What if you have hundreds of servers that you want to allow?
 
-A better way is to specify a range of IP addresses, and have all those related computers have IP addresses in that range.
-Now, how do you specify this range?
+A better way is to specify a range of IP addresses, and have all those related computers have IP addresses in that range. Now, how do you specify this range?
 
 One way, is you can specify the start and end address.
-Still, very unwieldy.
+Little better than specifying every single address, but there is still room for improvement.
+
 
 Second way, you can specify the start and length.
 A little better, but doesn't help much in bitwise operations. 
