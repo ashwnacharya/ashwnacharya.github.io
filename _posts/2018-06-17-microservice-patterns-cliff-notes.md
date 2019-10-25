@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Microservices Patterns - Cliff Notes"
+date:   2018-05-02 12:00:00 +0530
+---
+---
+layout: post
+title:  "CIDRs"
+date:   2018-05-02 12:00:00 +0530
+---
 # Microservices patterns - by Chris Richardson - Cliff Notes
 
 ## Table of Contents

@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Clean Code - Cliff Notes"
+date:   2018-05-02 12:00:00 +0530
+---
 # Cliff notes from Robert C Martin's Clean Code
 
 ## Chapter 0: Introduction
