@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - env:
-        image: ashwnacharya.azurecr.io/blog:d2d6c76
+        image: ashwnacharya.azurecr.io/blog:afcda12
         imagePullPolicy: Always
         name: blog
         ports:
@@ -31,9 +31,27 @@ metadata:
   name: blog
   namespace: blog
 spec:
-  type: LoadBalancer
+  type: ClusterIP
   ports:
   - port: 80
   selector:
     app: blog
 
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: blog-ingress
+  namespace: blog
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/rewrite-target: /$1
+spec:
+  rules:
+  - http:
+      paths:
+      - backend:
+          serviceName: blog
+          servicePort: 80
+        path: /(.*)
