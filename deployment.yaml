@@ -45,11 +45,12 @@ metadata:
   namespace: blog
   annotations:
     kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/from-to-www-redirect: "true"
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
     nginx.ingress.kubernetes.io/rewrite-target: /$1
 spec:
   rules:
-  - host: blog.ashwnacharya.info
+  - host: www.ashwnacharya.info
     http:
       paths:
       - path: /(.*)
