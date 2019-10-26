@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - env:
-        image: ashwnacharya.azurecr.io/blog:afcda12
+        image: ashwnacharyaacr.azurecr.io/blog:afcda12
         imagePullPolicy: Always
         name: blog
         ports:
