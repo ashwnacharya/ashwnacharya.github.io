@@ -39,3 +39,5 @@ exclude:
   - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - deploy.sh
+  - site.tar.gz
