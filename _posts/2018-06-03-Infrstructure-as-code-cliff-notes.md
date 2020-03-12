@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Infrastructure as Code - Cliff Notes"
-date:   2018-05-02 12:00:00 +0530
+date:   2018-06-03 12:00:00 +0530
 ---
 # Infrastructure as code by Kief Morris - Cliff Notes
 

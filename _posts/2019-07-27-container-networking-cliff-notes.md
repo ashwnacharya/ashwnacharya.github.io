@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Container Networking Notes"
-date:   2018-05-02 12:00:00 +0530
+date:   2019-07-27 12:00:00 +0530
 ---
 # Cliff notes from the containers networking book
 
