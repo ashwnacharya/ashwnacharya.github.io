@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi,
+I'm an engineer originally from Bangalore, India, now residing in Amsterdam, Netherlands.
 
-I am Ashwin, a programmer from Bangalore, India.
-This is my blog. It mostly contains my notes and things that I learnt. For what it is worth, the primary audience of this blog is me, because I write down stuff here so that I can refer to it later.
+This is my blog. Here, I mostly document thoughts about technology and lessons learned. Sometimes, I add notes and summaries from various books and papers that I've read. Often, I find it more convenient to share a link from here when I want to pass along insights.
 
-You are welcome to go through it though.
+So for what it's worth, the primary user of this blog is me. Feel free to take a look though 😊
 
 
