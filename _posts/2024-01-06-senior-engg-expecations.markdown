@@ -4,12 +4,11 @@ title:  "(My) Expectations from senior engineers"
 date:   2024-01-06 12:00:00 +0530
 ---
 
-TL-DR: 
-
+## TL-DR:
 * I expect Senior+ Engineers to demonstrate “Statesmanship”. 
 * Baseline qualifying expectations for Senior engineers need to shift from `Unproblematic While Collaborating` to `Proactively and positively Collaborative`.
 
-
+## Disclaimers.
 (My views here are based upon my own lived experience as an Individual Contributor for 16+ years, followed by being an Engineering Manager for the last 2, mostly at large enterprise orgs. Almost all of my career so far has been in working in the Indian IT industry, although I am yet to come across any good reasons for the below points to be not true elsewhere.)
 
 ## What is the role of a Senior+ Engineer?
