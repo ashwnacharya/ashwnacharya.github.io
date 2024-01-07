@@ -9,7 +9,7 @@ date:   2024-01-06 12:00:00 +0530
 * Baseline expectations for Senior engineers need to evolve  from `Unproblematic While Collaborating` to `Proactively and positively Collaborative`.
 
 ## Disclaimers.
-These insights reflect my personal perspective, shaped through 16+ years as an Individual Contributor and a subsequent 2-year stint as an Engineering Manager, primarily within large enterprise organizations.
+These insights reflect my personal perspective, shaped through 15+ years as an Individual Contributor and a subsequent 2-year stint as an Engineering Manager, primarily within large enterprise organizations.
 
 Also, it is worth mentioning that almost all of my career so far has been in working in the Indian IT industry, although I am yet to come across any good reasons for the below points to be not true elsewhere.
 
