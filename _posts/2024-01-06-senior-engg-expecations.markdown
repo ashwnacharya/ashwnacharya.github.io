@@ -42,7 +42,7 @@ Although I appreciate the depth vs. breadth insight, I personally believe there'
 ![](/assets/2024-01-06/commoditization.avif)
 <sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub.</sub>
 
-*  Moreover, even at large tech (as opposed to tech-enabled) organizations, the hardest problems are solved by leveraging org-design and concentrating niche talents in a small ring-fenced team that does the most “hard-core” (urgghhh 🤮) engineering to unlock the core differentiators, with a large majority of teams working on enabling and leveraging the core deep tech differentiators, again using commoditized technologies. 
+*  Moreover, even at large deep-tech organizations, the hardest problems are solved by leveraging org-design and concentrating niche talents in a small ring-fenced team that does the most “hard-core” (urgghhh 🤮) engineering to unlock the core differentiators, with a large majority of teams working on enabling and leveraging the core deep tech differentiators, again using commoditized technologies.
 
 * Upon changing jobs or orgs, a breadth IC, unlike a depth IC,has to shed ALL their context and start afresh. So the most important skills that they can carry with them are their context acquisition and influencing ability.
 
@@ -55,7 +55,7 @@ Therefore, I believe that context acquisition and influencing skills are necessa
 ## Most companies are tech-enabled.
 Most companies are tech-enabled, rather than deep tech companies. And I mean that in the most respectful, very non-pejorative way. Tech is rightly seen as a means to an end. Most companies do not produce tech for the sake of it, it is not the primary motivation. What they do instead is to deploy tech so that it would serve business goals in a manner that is scalable, cheap and sustainable.
 
-And that means deploying commodity tech as much as possible. The majority of companies strive to rely on widely adopted, well-established technology patterns—essentially, solutions to 'solved problems.
+And that means deploying commodity tech as much as possible. The majority of companies strive to rely on widely adopted, well-established technology patterns: essentially, solutions to 'solved problems.
 
 
 ## Chesterton fences and historical context.
@@ -77,7 +77,7 @@ A highly effective senior engineer is expected to navigate org boundaries and ac
 In fact, I firmly believe that a senior engineer's role should encompass fundamental expectations of statesmanship, including mentorship, collaboration, negotiation, creating win-win situations, and the exercise of influence without authority. These attributes should be assessed both in the hiring process and when considering engineers for senior+ positions.
 
 ## What are you doing wrong?
-It's not uncommon for companies to tolerate Senior Engineers with less-than-ideal 'soft skills' solely because of their 'technical' prowess.
+It's not uncommon for companies to tolerate Senior Engineers with less-than-ideal "soft skills" solely because of their "technical prowess".
 
 I vehemently oppose the idea that a senior engineer's role allows for residing solely within their technical comfort zone, detached from interactions with other teams and stakeholders. This position is not an avenue for those averse to engaging with people, in contrast to a management role that inherently demands effective communication.
 
@@ -89,7 +89,7 @@ A senior engineer should not be a recluse: they are not someone you summon only 
 ## What happens if you don't have this expectation?
 When companies lack a foundational expectation of influence, they not only set a lower standard for senior engineers but also discourage growth in this crucial area. The qualifying criteria for a senior engineer are diminished to merely `being unproblematic while collaborating` instead of `proactively, positively collaborative`.
 
-Engineers who exhibit social skills and influence without authority are perceived as exceptions, rather than the norm, and are often 'rewarded' with managerial responsibilities. This not only does a disservice to the Engineering craft but also hinders progress by diverting the most influential engineers from where they are most needed: close to the code, interacting with other engineers.
+Engineers who exhibit social skills and influence without authority are perceived as exceptions, rather than the norm, and are often "rewarded" with managerial responsibilities. This not only does a disservice to the Engineering craft but also hinders progress by diverting the most influential engineers from where they are most needed: close to the code, interacting with other engineers.
 
 Considering that most companies are tech-enabled rather than deep-tech, they often do not intentionally provide avenues for Individual Contributors to develop deep specialization in highly technical fields. Moreover, career options for breadth ICs who prefer not to transition into management are relatively limited.
 
