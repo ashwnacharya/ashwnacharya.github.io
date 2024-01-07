@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(My) Expectations from senior engineers"
+title:  "(My) Expectations from Senior+ Engineers"
 date:   2024-01-06 12:00:00 +0530
 ---
 
