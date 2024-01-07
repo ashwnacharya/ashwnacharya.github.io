@@ -37,7 +37,7 @@ Although I appreciate the depth vs. breadth insight, I personally believe there'
 * Therefore the nicheness of Deep-tech roles are very much a function of its novelty. Furthermore, most deep technologies of today become commoditized over time due to market forces, so a lucrative niche deep tech role isn’t forever: If such a role exists, it is bound to attract talented engineers, thus widening the talent pool of engineers specialising in that area. Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. And the Saas-fication of deep tech has only accelerated and will continue to do so.
 
 ![](/assets/2024-01-06/commoditization.avif)
-<sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub.</sub>
+<sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub. For the "sexiest jobs of the 21st century". </sub>
 
 *  Moreover, even at large deep-tech organizations, the hardest problems are solved by leveraging org-design and concentrating niche talents in a small ring-fenced team that does the most “hard-core” (urgghhh 🤮) engineering to unlock the core differentiators, with a large majority of teams working on enabling and leveraging the core deep tech differentiators, again using commoditized technologies.
 
