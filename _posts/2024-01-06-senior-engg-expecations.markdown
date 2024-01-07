@@ -58,9 +58,9 @@ Considering that most companies seek solutions through commoditized technologies
 
 Hence, it's logical to conclude that the challenges within companies aren't inherently technical; rather, they are organizational and contextual. Addressing these challenges demands a profound understanding of how systems originated and evolved—a complex interplay of forces such as yearly roadmaps, quarterly plans, historical personalities, and time pressures that have shaped these systems into their current state. Engineers need to reverse engineer these systems to tackle challenges. In essence, problem-solving at large companies necessitates a deep understanding of context.
 
-Often, much of this context is not readily apparent or documented. Companies with comprehensive documentation are rarer than unicorns. The context isn't immediately evident; it needs to be teased out and extracted by patient, technically skilled engineers adept at proactively seeking collaboration across organizational boundaries.
+![](/assets/2024-01-06/chesterton.webp)
 
-Hence, obtaining context, comprehending systems, and resolving issues demand highly skilled engineers to engage in discussions with their equally proficient counterparts.
+Often, much of this context is not readily apparent or documented. Companies with comprehensive documentation are rarer than unicorns. The context isn't immediately evident; it needs to be teased out and extracted by patient, technically skilled engineers adept at proactively seeking collaboration across organizational boundaries. Obtaining context, comprehending systems, and resolving issues demand highly skilled engineers to engage in discussions with their equally proficient counterparts.
 
 
 ## So what do I expect from Senior Engineers?
