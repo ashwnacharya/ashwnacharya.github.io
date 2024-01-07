@@ -11,6 +11,4 @@ This is my blog. Here, I mostly document thoughts about technology and lessons l
 
 So for what it is worth, the primary user of this blog is me. Feel free to take a look though 😊
 
-Here are my socials: 
-
-[Reddit](https://www.reddit.com/u/ashwnacharya) [Youtube](https://youtube.com/@ashwnacharya) [Github](https://github.com/ashwnacharya) [Linkedin](https://www.linkedin.com/in/ashwnacharya) [Twitter](https://www.twitter.com/ashwnacharya)
+You can reach me on [Linkedin](https://www.linkedin.com/in/ashwnacharya)
