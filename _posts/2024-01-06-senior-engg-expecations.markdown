@@ -31,7 +31,7 @@ Although I appreciate the depth vs. breadth insight, I personally believe there'
 
 * The demand for roles requiring profound technical expertise is scarce among most companies, as their business needs typically lean towards more generalized positions. The majority of companies are tech-enabled, focusing on leveraging technology as a means to an end, rather than being inherently deep tech-oriented. Technology is deployed to meet business goals, which are pragmatically addressed using fairly commoditized technologies. 
 ![](/assets//2024-01-06/tradeoffs.png)
-<sub>Breadth vs depth tradeoffs</sub>
+<sub>I am assuming there are more engineers who know how to build payment gateway integrations and CI/CD pipelines, than there are engineers who are working on developing new languages or new LLMs. Graph is merely indicative of the nicheness of the domain. Hope this does not land as disparaging.</sub>
 
 
 * Therefore the nicheness of Deep-tech roles are very much a function of its novelty. Furthermore, most deep technologies of today become commoditized over time due to market forces, so a lucrative niche deep tech role isn’t forever: If such a role exists, it is bound to attract talented engineers, thus widening the talent pool of engineers specialising in that area. Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. And the Saas-fication of deep tech has only accelerated and will continue to do so.
