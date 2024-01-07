@@ -5,7 +5,7 @@ date:   2024-01-06 12:00:00 +0530
 ---
 
 ## TL-DR:
-* Senior+ Engineers should exemplify 'Statesmanship.
+* Senior+ Engineers should exemplify `Statesmanship`.
 * Baseline expectations for Senior engineers need to evolve  from `Unproblematic While Collaborating` to `Proactively and positively Collaborative`.
 
 ## Disclaimers.
