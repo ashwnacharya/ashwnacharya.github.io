@@ -5,11 +5,11 @@ date:   2024-01-06 12:00:00 +0530
 ---
 
 ## TL-DR:
-* I expect Senior+ Engineers to demonstrate “Statesmanship”. 
-* Baseline qualifying expectations for Senior engineers need to shift from `Unproblematic While Collaborating` to `Proactively and positively Collaborative`.
+* Senior+ Engineers should exemplify 'Statesmanship.
+* Baseline expectations for Senior engineers need to evolve  from `Unproblematic While Collaborating` to `Proactively and positively Collaborative`.
 
 ## Disclaimers.
-My views here are informed by my own lived experience as an Individual Contributor for 16+ years, followed by being an Engineering Manager for the last 2, mostly at large enterprise orgs. 
+These insights reflect my personal perspective, shaped through 16+ years as an Individual Contributor and a subsequent 2-year stint as an Engineering Manager, primarily within large enterprise organizations.
 
 Also, it is worth mentioning that almost all of my career so far has been in working in the Indian IT industry, although I am yet to come across any good reasons for the below points to be not true elsewhere.
 
@@ -19,19 +19,18 @@ The role of a Senior+ engineer depends a lot on the organization. [Matt Klein](h
 
 ![Matt Klein on Depth vs Breadth ICs](/assets/2024-01-06/matt-klein-quote.png)
 
-While I really love this insight of depth vs breadth, I personally think that there is more nuance to it.
+Although I appreciate the depth vs. breadth insight, I personally believe there's additional nuance to consider.
 
 
 ![Tradeoffs](/assets//2024-01-06/tradeoffs.png)
 
 * First off, I personally like to think of this breadth vs depth IC distinction as two ends of a spectrum rather than a dichotomy.
 
-* Context Acquisition and Influencing skills are always desirable in Individual Contributors, as are technical skills. **A score of zero in either dimension is never acceptable.**
+* Context Acquisition and Influencing skills are always desirable in Individual Contributors, as are technical skills. **A complete lack of proficiency in either dimension is never acceptable.**
 
-* However, in a role that requires deep technical specialization, a senior engineer is *more likely to get away* with the lack of influencing skills, compared to a role at a company where the hardest problems are more about the context about a business and the historical evolution of its systems rather than of purely technical nature.
+* Yet, in a role demanding deep technical specialization, a senior engineer can navigate successfully with a less pronounced emphasis on influencing skills, unlike in a role where the most challenging problems involve business context and the historical evolution of systems, rather than purely technical aspects.
 
-
-* There are a very few companies that require very senior ICs for deep technical roles. Most companies are tech-enabled, rather than deep tech companies. Technology is a means to an end. Tech is deployed to unlock non-tech business goals. And business goals are sensibly solved using fairly commoditized technologies. 
+* The demand for roles requiring profound technical expertise is scarce among most companies, as their business needs typically lean towards more generalized positions. The majority of companies are tech-enabled, focusing on leveraging technology as a means to an end, rather than being inherently deep tech-oriented. Technology is deployed to meet business goals, which are pragmatically addressed using fairly commoditized technologies.
 
 * Deep-tech roles, and therefore the niche are very much a function of the novelty of a technology. (Cloud a decade ago, big data, blockchain etc a few years ago, LLMs etc nowadays). 
 
@@ -47,46 +46,47 @@ Therefore, I believe that context acquisition and influencing skills are necessa
 
 ![](/assets/2024-01-06/growth.png)
 
+
 ## Most companies are tech-enabled.
 Most companies are tech-enabled, rather than a deep tech companies. And I mean that in the most respectful, very non-pejorative way. Tech is rightly seen as a means to an end. Most companies do not produce tech for the sake of it, it is not the primary motivation. What they do instead is to deploy tech so that it would serve business goals in a manner that is scalable, cheap and sustainable. 
 
-And that means deploying commodity tech as much as possible. Most companies largely strive to rely on popular, well established tech patterns: i.e. “solved problems”. 
+And that means deploying commodity tech as much as possible. The majority of companies strive to rely on widely adopted, well-established technology patterns—essentially, solutions to 'solved problems.
 
 
 ## Chesterton fences and historical context.
-Given that most companies look to solve their problems using commoditized technologies, the best practices and patterns for commodity technologies are already available, or are expected to emerge due to market forces.
+Considering that most companies seek solutions through commoditized technologies, the best practices and patterns for these technologies are either readily available or anticipated to emerge due to market forces.
 
-Therefore, it stands to reason that the hard problems at companies aren’t inherently tech: they are organizational, and contextual. Solving these problems require a deep understanding of how the systems originated and evolved: How a complex, constantly rebalancing system of forces like yearly roadmaps,  quarterly plans, historic personalities, time pressures, shaped these systems into the way they are today. Engineers are required to reverse engineer these systems to solve problems. Simply put, solving problems at large companies requires context.
+Hence, it's logical to conclude that the challenges within companies aren't inherently technical; rather, they are organizational and contextual. Addressing these challenges demands a profound understanding of how systems originated and evolved—a complex interplay of forces such as yearly roadmaps, quarterly plans, historical personalities, and time pressures that have shaped these systems into their current state. Engineers need to reverse engineer these systems to tackle challenges. In essence, problem-solving at large companies necessitates a deep understanding of context.
 
-And oftentimes, a lot of this context is not obvious. It is not documented. A companies with good documentation are rarer than unicorns. So the context is not evident immediately. It has to be teased out: extracted, by patient, technically skilled engineers who are great at proactively seeking collaboration across org boundary lines.
+Often, much of this context is not readily apparent or documented. Companies with comprehensive documentation are rarer than unicorns. The context isn't immediately evident; it needs to be teased out and extracted by patient, technically skilled engineers adept at proactively seeking collaboration across organizational boundaries.
 
-Therefore, acquiring context, understanding the systems and solving problems require highly skilled engineers to talk to other highly skilled engineers.
-
-
+Hence, obtaining context, comprehending systems, and resolving issues demand highly skilled engineers to engage in discussions with their equally proficient counterparts.
 
 
 ## So what do I expect from Senior Engineers?
-**An effective Senior Engineer is expected to demonstrate STATESMANSHIP with high levels of [Influence Without Authority](https://www.goodreads.com/en/book/show/123686).**
+**An accomplished Senior Engineer is expected to exhibit STATESMANSHIP, complemented by a proficiency in [Influence Without Authority](https://www.goodreads.com/en/book/show/123686).**
 
 A highly effective senior engineer is expected to navigate org boundaries and acquire context. They are expected to build relationships, form personal networks, create win-win situations, pick the right battles, resolve conflicts, [be an effective heretic...](https://medium.com/@royrapoport/that-burning-feeling-when-youre-right-cee8b8d05492)
 
-In fact, I strongly believe that a senior engineer position should come with baseline expectations of statesmanship: mentorship, collaboration, negotiation, creating win-win situations, and influence without authority. These qualities should be evaluated during hiring as well as during promoting engineers to senior+ positions.
+In fact, I firmly believe that a senior engineer's role should encompass fundamental expectations of statesmanship, including mentorship, collaboration, negotiation, creating win-win situations, and the exercise of influence without authority. These attributes should be assessed both in the hiring process and when considering engineers for senior+ positions.
 
 ## What are you doing wrong?
-I often see companies being accepting of Senior Engineers with less than ideal "soft-skills" because they are "technical". 
+It's not uncommon for companies to tolerate Senior Engineers with less-than-ideal 'soft skills' solely because of their 'technical' prowess.
 
-I strongly disagree with the notion that being a senior engineer is a position where you can just be in your technical comfort zone and not talk to other teams and stakeholders. It is NOT a position you take because you don’t want to talk to people, as opposed to a management position which requires you to “talk”. A lot of companies accept this [wordcel vs shape rotator distinction](https://www.vice.com/en/article/pkpqzb/ok-wtf-are-wordcels-and-shape-rotators) as some weird law of nature and do nothing to address it. This, in my opinion, is often a grave mistake. 
+I vehemently oppose the idea that a senior engineer's role allows for residing solely within their technical comfort zone, detached from interactions with other teams and stakeholders. This position is not an avenue for those averse to engaging with people, in contrast to a management role that inherently demands effective communication.
 
-A senior engineer should not be a recluse: they are not someone who you break glass and engage when in need of solving a highly technical problem. 
+Many companies acknowledge this [wordcel vs shape rotator distinction](https://www.vice.com/en/article/pkpqzb/ok-wtf-are-wordcels-and-shape-rotators) as if it were an immutable law of nature, yet they often neglect to take corrective measures. In my view, this is frequently a significant oversight.
+
+A senior engineer should not be a recluse: they are not someone you summon only when faced with a highly technical problem that requires immediate attention. 
 
 
 ## What happens if you don't have this expectation?
-By not having a baseline expectation of influence, companies not only lower the bar for senior engineers, they also disincentivise growth in this area. The qualifying criteria for a senior engineer is reduced to merely “being unproblematic while collaborating” rather than “proactively, postively collaborative”.
+When companies lack a foundational expectation of influence, they not only set a lower standard for senior engineers but also discourage growth in this crucial area. The qualifying criteria for a senior engineer are diminished to merely `being unproblematic while collaborating` instead of `proactively, positively collaborative`.
 
-Engineers who demonstrate social skills and influence without authority are seen as an exception, rather than the norm, and often rewarded with managerial responsibilities. Not only is this a great disservice to the Engineering craftsmanship, they are doing themselves a disservice by taking away the most influential engineers away from where they are needed the most: as close to the code as possible, and talking to other engineers.
+Engineers who exhibit social skills and influence without authority are perceived as exceptions, rather than the norm, and are often 'rewarded' with managerial responsibilities. This not only does a disservice to the Engineering craft but also hinders progress by diverting the most influential engineers from where they are most needed: close to the code, interacting with other engineers.
 
-And because most companies are tech enabled as opposed to deep-tech, they neither offer avenues for Individual Contributors to acquire deep specialization in highly technical fields, nor do they offer career options for breadth ICs who do not want to get into management.
+Considering that most companies are tech-enabled rather than deep-tech, they often do not intentionally provide avenues for Individual Contributors to develop deep specialization in highly technical fields. Moreover, career options for breadth ICs who prefer not to transition into management are relatively limited.
 
-Therefore, a senior IC who wants to continue on the IC path runs into what is effectively a glass ceiling. 
+Thus, a senior IC aspiring to persist on the IC path encounters what is essentially a glass ceiling.
 
 And... the business problems remain unsolved.
