@@ -53,7 +53,7 @@ Therefore, I believe that context acquisition and influencing skills are necessa
 
 
 ## Most companies are tech-enabled.
-Most companies are tech-enabled, rather than a deep tech companies. And I mean that in the most respectful, very non-pejorative way. Tech is rightly seen as a means to an end. Most companies do not produce tech for the sake of it, it is not the primary motivation. What they do instead is to deploy tech so that it would serve business goals in a manner that is scalable, cheap and sustainable. 
+Most companies are tech-enabled, rather than deep tech companies. And I mean that in the most respectful, very non-pejorative way. Tech is rightly seen as a means to an end. Most companies do not produce tech for the sake of it, it is not the primary motivation. What they do instead is to deploy tech so that it would serve business goals in a manner that is scalable, cheap and sustainable.
 
 And that means deploying commodity tech as much as possible. The majority of companies strive to rely on widely adopted, well-established technology patterns—essentially, solutions to 'solved problems.
 
