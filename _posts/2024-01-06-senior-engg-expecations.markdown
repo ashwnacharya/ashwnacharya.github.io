@@ -17,12 +17,14 @@ Also, it is worth mentioning that almost all of my career so far has been in wor
 
 The role of a Senior+ engineer depends a lot on the organization. [Matt Klein](https://mattklein123.dev/), the creator of [Envoy Proxy](https://www.envoyproxy.io/), had a twitter thread, [unrolled here](https://threadreaderapp.com/thread/1130206773078421504.html) where he made this distinction of Depth vs Breadth ICs.
 
-![Matt Klein on Depth vs Breadth ICs](/assets/2024-01-06/matt-klein-quote.png)
+![](/assets/2024-01-06/matt-klein-quote.png)
+<sub>Matt Klein on Depth vs Breadth ICs</sub>
 
 Although I appreciate the depth vs. breadth insight, I personally believe there's additional nuance to consider.
 
 
-![Tradeoffs](/assets//2024-01-06/tradeoffs.png)
+![](/assets//2024-01-06/tradeoffs.png)
+<sub>Breadth vs depth tradeoffs</sub>
 
 * First off, I personally like to think of this breadth vs depth IC distinction as two ends of a spectrum rather than a dichotomy.
 
@@ -37,6 +39,8 @@ Although I appreciate the depth vs. breadth insight, I personally believe there'
 
 * Furthermore, most deep technologies of today become commoditized over time due to market forces, so a lucrative niche deep tech role isn’t forever. If a lucrative deep-tech field exists, it is bound to attract talented engineers, thus widening the talent pool of engineers specialising in that area. Also, the speed at which deep tech becomes commoditised through Saas-ification has accelerated and will continue to do so. 
 
+![](/assets/2024-01-06/commoditization.avif)
+<sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub.</sub>
 
 *  Moreover, even at large tech (as opposed to tech-enabled) organizations, the hardest problems are solved by leveraging org-design and concentrating niche talents in a small ring-fenced team that does the most “hard-core” (urgghhh 🤮) engineering to unlock the core differentiators, with a large majority of teams working on enabling and leveraging the core deep tech differentiators, again using commoditized technologies. 
 
@@ -45,6 +49,7 @@ Although I appreciate the depth vs. breadth insight, I personally believe there'
 Therefore, I believe that context acquisition and influencing skills are necessary for any Senior+ Engineer. A senior engineer cannot rely on deep tech skills alone.
 
 ![](/assets/2024-01-06/growth.png)
+<sub>How to grow as an Individual Contributor</sub>
 
 
 ## Most companies are tech-enabled.
@@ -59,6 +64,7 @@ Considering that most companies seek solutions through commoditized technologies
 Hence, it's logical to conclude that the challenges within companies aren't inherently technical; rather, they are organizational and contextual. Addressing these challenges demands a profound understanding of how systems originated and evolved—a complex interplay of forces such as yearly roadmaps, quarterly plans, historical personalities, and time pressures that have shaped these systems into their current state. Engineers need to reverse engineer these systems to tackle challenges. In essence, problem-solving at large companies necessitates a deep understanding of context.
 
 ![](/assets/2024-01-06/chesterton.webp)
+<sub>History is not a study of the past, it is about learning how we got here today</sub>
 
 Often, much of this context is not readily apparent or documented. Companies with comprehensive documentation are rarer than unicorns. The context isn't immediately evident; it needs to be teased out and extracted by patient, technically skilled engineers adept at proactively seeking collaboration across organizational boundaries. Obtaining context, comprehending systems, and resolving issues demand highly skilled engineers to engage in discussions with their equally proficient counterparts.
 
