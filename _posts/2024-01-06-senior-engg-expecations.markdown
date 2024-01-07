@@ -23,21 +23,18 @@ The role of a Senior+ engineer depends a lot on the organization. [Matt Klein](h
 Although I appreciate the depth vs. breadth insight, I personally believe there's additional nuance to consider.
 
 
-![](/assets//2024-01-06/tradeoffs.png)
-<sub>Breadth vs depth tradeoffs</sub>
-
 * First off, I personally like to think of this breadth vs depth IC distinction as two ends of a spectrum rather than a dichotomy.
 
 * Context Acquisition and Influencing skills are always desirable in Individual Contributors, as are technical skills. **A complete lack of proficiency in either dimension is never acceptable.**
 
 * Yet, in a role demanding deep technical specialization, a senior engineer can navigate successfully with a less pronounced emphasis on influencing skills, unlike in a role where the most challenging problems involve business context and the historical evolution of systems, rather than purely technical aspects.
 
-* The demand for roles requiring profound technical expertise is scarce among most companies, as their business needs typically lean towards more generalized positions. The majority of companies are tech-enabled, focusing on leveraging technology as a means to an end, rather than being inherently deep tech-oriented. Technology is deployed to meet business goals, which are pragmatically addressed using fairly commoditized technologies.
+* The demand for roles requiring profound technical expertise is scarce among most companies, as their business needs typically lean towards more generalized positions. The majority of companies are tech-enabled, focusing on leveraging technology as a means to an end, rather than being inherently deep tech-oriented. Technology is deployed to meet business goals, which are pragmatically addressed using fairly commoditized technologies. 
+![](/assets//2024-01-06/tradeoffs.png)
+<sub>Breadth vs depth tradeoffs</sub>
 
-* Deep-tech roles, and therefore the niche are very much a function of the novelty of a technology. (Cloud a decade ago, big data, blockchain etc a few years ago, LLMs etc nowadays). 
 
-
-* Furthermore, most deep technologies of today become commoditized over time due to market forces, so a lucrative niche deep tech role isn’t forever. If a lucrative deep-tech field exists, it is bound to attract talented engineers, thus widening the talent pool of engineers specialising in that area. Also, the speed at which deep tech becomes commoditised through Saas-ification has accelerated and will continue to do so. 
+* Therefore the nicheness of Deep-tech roles are very much a function of its novelty. Furthermore, most deep technologies of today become commoditized over time due to market forces, so a lucrative niche deep tech role isn’t forever: If such a role exists, it is bound to attract talented engineers, thus widening the talent pool of engineers specialising in that area. Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. And the Saas-fication of deep tech has only accelerated and will continue to do so.
 
 ![](/assets/2024-01-06/commoditization.avif)
 <sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub.</sub>
