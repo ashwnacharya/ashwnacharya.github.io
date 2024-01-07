@@ -3,48 +3,6 @@
 
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        {%- if site.github_username -%}
-        <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}">
-          <svg class="svg-icon">
-            <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
-          </svg>
-          <span class="username">{{ site.github_username| escape }}</span>
-        </a>
-        {%- endif -%}
-      </div>
-      <div class="footer-col footer-col-1">
-        {%- if site.linkedin_username -%}
-        <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}">
-          <svg class="svg-icon">
-            <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
-          </svg>
-          <span class="username">{{ site.linkedin_username| escape }}</span>
-        </a>{%- endif -%}
-        </div>
-        <div class="footer-col footer-col-1">
-        {%- if site.twitter_username -%}
-        <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}">
-          <svg class="svg-icon">
-            <use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
-          </svg>
-          <span class="username">{{ site.twitter_username| escape }}</span>
-        </a>
-        {%- endif -%}
-        </div>
-        <div class="footer-col footer-col-1">
-        {%- if site.youtube_username -%}
-        <a href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}">
-          <svg class="svg-icon">
-            <use xlink:href="{{ '/assets/minima-social-icons.svg#youtube' | relative_url }}"></use>
-          </svg>
-          <span class="username">{{ site.youtube_username| escape }}</span>
-        </a>
-        {%- endif -%}
-        </div>
-      </div>
     </div>
-
   </div>
-
 </footer>
