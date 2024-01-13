@@ -53,7 +53,7 @@ So my audience will primarily discover my content when they intentionally click 
 
 
 ## Still happy to stay off social media.
-I have actively avoided most social media. I do have a [Linkedin](https://www.linkedin.com/in/ashwnacharya) unfortunately, because that is where most of the recruiters are. I aspire to not having a Linkedin profile but I am not there yet.
+I have actively avoided most social media. I do have a [Linkedin](https://www.linkedin.com/in/ashwnacharya) unfortunately, because that is where most of the recruiters are. I aspire to not having one; but I am not there yet.
 
 So I must admit, I was somewhat stressed about maintaining a Twitter account, sharing links on Reddit, seeking engagement on Linkedin and engaging in discussions: basically indulging in all the influencer shenanigans.
 
