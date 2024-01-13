@@ -12,7 +12,7 @@ date:   2024-01-07 12:00:00 +0530
 ## Why am I starting a blog now?
 I believe that I have valuable experience and insights on leading cloud and infrastructure teams, navigating careers in large enterprise companies, delivering high-quality software and solving hard problems.
 
-Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my new country is closely tied to maintaining my employment here. So I thought that having a website and writing down things was a worthwhile endeavour: Sharing this content hopefully serves as a public "proof of competence" and enhances my employability.
+Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my new country is closely tied to maintaining my employment here. So I thought that having a website and writing down things was a worthwhile endeavour: Sharing content hopefully serves as a public "proof of competence" and enhances my employability.
 
 Earlier in my career, I was happy with just accumulating knowledge and experience without putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text.
 
