@@ -16,7 +16,7 @@ Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my ne
 
 Earlier in my career, I was happy with just accumulating knowledge and experience without putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text.
 
-However, with the advent of ChatGPT, the landscape has shifted, and obtaining competent editorial feedback is no longer a challenge.
+However, with GenerativeAI being a thing now, obtaining competent editorial feedback is no longer a challenge.
 
 
 ## Questions that i needed to answer.
