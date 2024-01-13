@@ -19,14 +19,14 @@ Earlier in my career, I was happy with just accumulating knowledge and experienc
 However, with the advent of ChatGPT, the landscape has shifted, and obtaining competent editorial feedback is no longer a challenge.
 
 
-## Questions that i needed to answer
+## Questions that i needed to answer.
 After I created my website,  I pondered on ways to share it with a wider audience:
 * How should I get feedback for my content?
 * Should I expand my reach?
 * Who should be reading my content?
 
 
-## Getting feedback
+## Getting feedback.
 I think I'm not overly concerned about putting out perfect timeless content. Instead, I view my posts as a snapshot of my perspectives at a specific points in time. It will be intriguing to observe how my views evolve.
 
 So apart from cosmetic changes and rewording something once I have found a better word or phrase to express my thoughts, my posts are going to be fairly immutable, and any followups are going to be posts of its own.
