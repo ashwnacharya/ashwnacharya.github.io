@@ -27,13 +27,13 @@ After I created my website,  I pondered on ways to share it with a wider audienc
 
 
 ## Getting feedback.
-I think I'm not overly concerned about putting out perfect timeless content. Instead, I view my posts as a snapshot of my perspectives at a specific points in time. It will be intriguing to observe how my views evolve.
+I'm not overly concerned about putting out perfect timeless content. Instead, I view my posts as a snapshot of my perspectives at a specific points in time. It will be intriguing to observe how my views evolve.
 
-So apart from cosmetic changes and rewording something once I have found a better word or phrase to express my thoughts, my posts are going to be fairly immutable, and any followups are going to be posts of its own.
+So, apart from cosmetic changes and rewording something once I have found a better word or phrase to express my thoughts, my posts are going to be fairly immutable, and any followups are going to be posts of its own.
 
 Hence, I won't actively seek feedback just for the sake of improving the content.
 
-This also imposes on me the responsibility of expressing views that I am willing to stand by for the rest of my life. It's something I believe I am comfortable with.
+This also imposes on me the responsibility of expressing views that I am willing to own, even if they change in the future. I am comfortable doing that.
 
 
 ## Should I expand my reach?
@@ -49,15 +49,15 @@ And these are likely to be the people I choose to engage with: a colleague, some
 
 Given my reserved and intensely private nature, I don't foresee this blog garnering substantial traffic. 
 
-So my audience will primarily discover my content when they intentionally click on a link within my profile or resume.
+My audience will primarily discover my content when they intentionally click on a link within my profile or resume.
 
 
 ## Still happy to stay off social media.
 I have actively avoided most social media. I do have a [Linkedin](https://www.linkedin.com/in/ashwnacharya) unfortunately, because that is where most of the recruiters are. I aspire to not having one; but I am not there yet.
 
-So I must admit, I was somewhat stressed about maintaining a Twitter account, sharing links on Reddit, seeking engagement on Linkedin and engaging in discussions: basically indulging in all the influencer shenanigans.
+I must admit, I was somewhat stressed about maintaining a Twitter account, sharing links on Reddit, seeking engagement on Linkedin and engaging in discussions: basically indulging in all the influencer shenanigans.
 
 ![Role Model](/assets/2024-01-08/ron-swanson.jpeg)
 <sub>A Hero and Role Model.</sub>
 
-So, gaining this clarity and being decisive about my engagement model was quite liberating.
+Gaining this clarity and being decisive about my engagement model was quite liberating.
