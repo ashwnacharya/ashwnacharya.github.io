@@ -15,4 +15,4 @@ Nothing particularly profound or groundbreaking, but maintaining this as a guidi
 
 I have found this to be a valuable tool for reflection and self-assessment, particularly in steering clear of stagnation.
 
-Also, I have been stuck at jobs where  all the above boxes weren't checked. Reasons varied: personal life taking precedence, waiting for that big stock or a bonus payout if I could just grind it out for a couple more months, market conditions, an upcoming vacation or simply a lack of appealing career moves.  But sticking to this principle has kept me grounded: acknowledge and accept a less-than-optimal situation instead of deceiving to myself. 
+Also, I have been stuck at jobs where  all the above boxes weren't checked. Reasons varied: personal life taking precedence, waiting for that big stock or a bonus payout if I could just grind it out for a couple more months, market conditions, an upcoming vacation or simply a lack of appealing career moves.  But sticking to this principle has kept me grounded: acknowledge and accept a less-than-optimal situation instead of deceiving myself. 
