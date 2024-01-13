@@ -6,7 +6,7 @@ date:   2024-01-07 12:00:00 +0530
 
 ## TL-DR:
 * This blog is a way for $people to check out my opinions, should they be curious.
-    * ( $people ∈ {people I trust and respect, those I choose to engage with, those looking to employ me.} )
+    * $people ∈ {those I trust and respect, those I choose to engage with, those looking to employ me.}
 
 
 ## Why am I starting a blog now?
