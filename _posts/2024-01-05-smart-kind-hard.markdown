@@ -6,10 +6,10 @@ date:   2024-01-05 12:00:00 +0530
 
 
 When looking for a job, my goal is to:
-    * create value
-        * by solving hard problems
-        * while working with smart people
-        * who are also very kind.
+* create value
+    * by solving hard problems
+    * while working with smart people
+    * who are also very kind.
 
 Nothing particularly profound or groundbreaking, but maintaining this as a guiding principle has been helpful nevertheless. [Avoid bullshit jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs). Take on challenges that stretch your abilities, rather than on something you already know that you can do. Work with other smart people that you can learn from. And get along with. 
 
