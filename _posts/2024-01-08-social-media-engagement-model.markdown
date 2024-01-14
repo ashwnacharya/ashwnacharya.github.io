@@ -14,7 +14,7 @@ I believe that I have valuable experience and insights on leading cloud and infr
 
 Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my new country is closely tied to maintaining my employment here. Having a website and writing down things is a worthwhile endeavour in that regard: hopefully it serves as a public "proof of competence" and enhances my employability.
 
-Earlier. I was happy with just accumulating knowledge and experience and not really concerned about putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text. Also, not having public proof hasn't held me back from finding meaningful opportunities.
+Earlier, I was happy with just accumulating knowledge and experience and not really concerned about putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text. Also, not having public proof hasn't held me back from finding meaningful opportunities.
 
 However, with GenerativeAI being a thing now, obtaining competent editorial feedback is no longer a challenge.
 
