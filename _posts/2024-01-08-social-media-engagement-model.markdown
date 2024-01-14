@@ -47,7 +47,7 @@ Broadcasting my viewpoints feels pointless: I am not looking to invite attention
 ## Who would be reading my content?
 My goal is to provide evidence of my competence for those who seek it.
 
-And these are likely to be the people I proactively choose to engage with: a colleague, someone I aspire to work with, someone I at a conference or a meetup, or engage with online in the select few forums that I participate in.
+And these are likely to be the people I proactively choose to engage with: a colleague, someone I aspire to work with, someone I met at a conference or a meetup, someone I interacted with online in the select few forums that I participate in.
 
 Given my reserved and intensely private nature, I don't foresee this blog garnering substantial traffic. 
 
@@ -55,7 +55,7 @@ My audience will primarily discover my content when they intentionally click on 
 
 
 ## Still happy to stay off social media.
-I have actively avoided most social media. I do have a [Linkedin](https://www.linkedin.com/in/ashwnacharya) unfortunately, because that is where most of the recruiters are. I aspire to not having one; but I am not there yet.
+I have actively avoided most social media. Unfortunately, I do have a [Linkedin](https://www.linkedin.com/in/ashwnacharya), because that is where most of the recruiters are. I aspire to not having one; but I am not there yet.
 
 I must admit, I was somewhat stressed about maintaining a Twitter account, sharing links on Reddit, seeking engagement on Linkedin and engaging in discussions: basically indulging in all the influencer shenanigans.
 
