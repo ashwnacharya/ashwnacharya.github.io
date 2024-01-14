@@ -18,7 +18,7 @@ Earlier, I was happy with just accumulating knowledge and experience and not rea
 
 However, with GenerativeAI being a thing now, obtaining competent editorial feedback is no longer a challenge.
 
-Moreover, it is fair to assume that more senior roles are comparatively harder to come by. Also, I am now more picky about the kind of jobs I would take. Having a blog hopefully provides me a way to stand out, and a prospective employer a fairly good idea of what they are going to get.
+Moreover, I am more senior now and it is fair to assume that senior roles are comparatively harder to come by. Also, I am now more picky about the kind of jobs I would take. Having a blog hopefully provides me a way to stand out, and a prospective employer a fairly good idea of what they are going to get.
 
 
 ## Questions that i needed to answer.
