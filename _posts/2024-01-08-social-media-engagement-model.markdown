@@ -12,11 +12,13 @@ date:   2024-01-07 12:00:00 +0530
 ## Why am I starting a blog now?
 I believe that I have valuable experience and insights on leading cloud and infrastructure teams, navigating careers in large enterprise companies, delivering high-quality software and solving hard problems.
 
-Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my new country is closely tied to maintaining my employment here. So I thought that having a website and writing down things was a worthwhile endeavour: Sharing content hopefully serves as a public "proof of competence" and enhances my employability.
+Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my new country is closely tied to maintaining my employment here. Having a website and writing down things is a worthwhile endeavour in that regard: hopefully it serves as a public "proof of competence" and enhances my employability.
 
-Earlier in my career, I was happy with just accumulating knowledge and experience without putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text.
+Earlier. I was happy with just accumulating knowledge and experience and not really concerned about putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text. Also, not having public proof hasn't held me back from finding meaningful opportunities.
 
 However, with GenerativeAI being a thing now, obtaining competent editorial feedback is no longer a challenge.
+
+Moreover, it is fair to assume that more senior roles are comparatively harder to come by. Also, I am now more picky about the kind of jobs I would take. Having a blog hopefully provides me a way to stand out, and a prospective employer a fairly good idea of what they are going to get.
 
 
 ## Questions that i needed to answer.
