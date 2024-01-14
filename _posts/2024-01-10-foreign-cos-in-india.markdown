@@ -5,7 +5,7 @@ date:   2024-01-10 12:00:00 +0530
 ---
 
 ## TL-DR:
-* Specifically relevant to foreign software companies with offices in India.
+* Specifically relevant to Multinational software companies with offices in India.
 * Teams in Indian offices of these companies typically handle three types of software projects:
     * Staff augmentation
     * Shared Ownership
