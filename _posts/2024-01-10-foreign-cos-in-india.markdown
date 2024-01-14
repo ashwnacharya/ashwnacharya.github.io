@@ -71,6 +71,8 @@ In a sense, the above model serves as an alternative perspective—an observatio
 
 An executive at the mothership pioneers the offshore model for the first time through the establishment of a staff augmentation engagement. With time, the settler phase involves discovering best practices and failure modes, ultimately transitioning to the town planner phase for extracting maximum value.
 
+![](/assets/2024-01-10/msft.jpeg)
+<sub>Pic mostly unrelated, other than the fact that this is where I picked up this mental model. </sub>
 
 ## Observations and Caveats
 
