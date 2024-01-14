@@ -47,7 +47,7 @@ Broadcasting my viewpoints feels pointless: I am not looking to invite attention
 ## Who would be reading my content?
 My goal is to provide evidence of my competence for those who seek it.
 
-And these are likely to be the people I choose to engage with: a colleague, someone I aspire to work with, someone I at a conference or a meetup, or engage with online in the select few forums that I participate in.
+And these are likely to be the people I proactively choose to engage with: a colleague, someone I aspire to work with, someone I at a conference or a meetup, or engage with online in the select few forums that I participate in.
 
 Given my reserved and intensely private nature, I don't foresee this blog garnering substantial traffic. 
 
