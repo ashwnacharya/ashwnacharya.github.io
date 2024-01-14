@@ -29,7 +29,7 @@ After I created my website,  I pondered on ways to share it with a wider audienc
 
 
 ## Getting feedback.
-I'm not overly concerned about putting out perfect timeless content. Instead, I view my posts as a snapshot of my perspectives at a specific points in time. It will be intriguing to observe how my views evolve.
+I'm not overly concerned about putting out perfect timeless content. Instead, I view my posts as a snapshot of my perspectives at specific points in time. It will be intriguing to observe how my views evolve.
 
 So, apart from cosmetic changes and rewording something once I have found a better word or phrase to express my thoughts, my posts are going to be fairly immutable, and any followups are going to be posts of its own.
 
