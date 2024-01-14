@@ -82,6 +82,7 @@ An executive at the mothership pioneers the offshore model for the first time th
 
 **A point in time snapshot:** Teams are continually evolving, influenced by various tectonic forces. Therefore, it is beneficial to utilize this model to depict the state of a team or organization at a specific point in time, rather than as a permanent label.
 
+**X-axis of the spectrum represents trust:** The higher the trust in the satellite org, the more influence one has in decision-making. While not a particularly profound insight, it may not always be the obvious when you are a part of a team.
 
 ## How to use this mental model?
 Personally, I have found this model to be valuable when assessing potential job offers.
