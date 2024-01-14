@@ -62,4 +62,4 @@ I must admit, I was somewhat stressed about maintaining a Twitter account, shari
 ![Role Model](/assets/2024-01-08/ron-swanson.jpeg)
 <sub>A Hero and Role Model.</sub>
 
-Gaining this clarity and being decisive about my engagement model was quite liberating.
+Therefore, gaining this clarity and being decisive about my engagement model was quite liberating.
