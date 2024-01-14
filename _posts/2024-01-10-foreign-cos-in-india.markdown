@@ -7,7 +7,7 @@ date:   2024-01-10 12:00:00 +0530
 ## TL-DR:
 * Specifically relevant to Multinational software companies with offices in India.
 * Teams in Indian offices of these companies typically handle three types of software projects:
-    * Staff augmentation
+    * Staff Augmentation
     * Shared Ownership
     * Total Ownership
 
@@ -24,7 +24,7 @@ Conversely, offices in other countries are frequently labeled as "Development Ce
 Based on my experience, projects or teams in satellite offices typically fall into one of the following three broad categories.
 
 
-### 1. Staff augmentation
+### 1. Staff Augmentation
 The Staff Augmentation model involves the team in a satellite region primarily offering low-level headcount to a team based at the HQ.
 
 The headcount is mostly junior or mid-level engineers, along with a frontline EM or a team lead. 
