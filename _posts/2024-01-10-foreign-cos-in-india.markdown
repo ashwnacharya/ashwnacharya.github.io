@@ -67,7 +67,7 @@ While uncommon, it is not entirely unheard of for a satellite team to take owner
 
 
 
-## A variation of the Pioneers-Settlers-Town-planners
+## A variation of the Pioneers, Settlers and Town-planners model
 In a sense, the above model serves as an alternative perspective—an observation from the other side, so to speak—of the [Pioneers, Settlers and Town Planners](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) model proposed by [Simon Wardley](https://www.linkedin.com/in/simonwardley/).
 
 An executive at the mothership pioneers the offshore model for the first time through the establishment of a staff augmentation engagement. With time, the settler phase involves discovering best practices and failure modes, ultimately transitioning to the town planner phase for extracting maximum value.
