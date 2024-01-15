@@ -66,6 +66,7 @@ Alternatively, this involves a revenue-generating product in sunset/maintenance 
 While uncommon, it is not entirely unheard of for a satellite team to take ownership of a high-risk, high-reward project.
 
 
+
 ## A variation of the Pioneers-Settlers-Town-planners
 In a sense, the above model serves as an alternative perspective—an observation from the other side, so to speak—of the [Pioneers, Settlers and Town Planners](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) model proposed by [Simon Wardley](https://www.linkedin.com/in/simonwardley/).
 
@@ -83,6 +84,9 @@ An executive at the mothership pioneers the offshore model for the first time th
 **A point in time snapshot:** Teams are continually evolving, influenced by various tectonic forces. Therefore, it is beneficial to utilize this model to depict the state of a team or organization at a specific point in time, rather than as a permanent label.
 
 **X-axis of the spectrum represents trust:** The higher the trust in the satellite org, the more influence one has in decision-making. While not a particularly profound insight, it may not always be the obvious when you are a part of a team.
+
+![](/assets/2024-01-10/trust.png)
+<sub>Earn trust to change the model of engagement</sub>
 
 ## How to use this mental model?
 Personally, I have found this model to be valuable when assessing potential job offers.
