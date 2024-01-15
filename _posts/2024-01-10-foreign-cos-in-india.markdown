@@ -19,7 +19,7 @@ Typically, these enterprise companies have their headquarters situated in the US
 
 The headquarters (HQ) is the mothership: the geolocation with the most significant presence of senior leaders within the company.
 
-Conversely, offices in other countries are frequently labeled as "Development Centres" or "Center of Excellence." However, for the purpose of this discussion, let's refer to them as Satellites.
+Conversely, offices in other countries are frequently labeled as "Development Centres" or "Centers of Excellence." However, for the purpose of this discussion, let's refer to them as Satellites.
 
 Based on my experience, projects or teams in satellite offices typically fall into one of the following three broad categories.
 
@@ -39,7 +39,7 @@ They are still in the process of building credibility and earning trust, which m
 
 Engineers in this team primarily experience growth by assisting the satellite leadership in earning credibility and trust.
 
-Leaders at a satellite organization usually aim to earn credibility and trust by leveraging organizational design and cost arbitrage benefits to increase output. However, the results are mixed, mainly because Mythical Man-Month principles still hold true.
+Leaders at a satellite organization usually aim to earn credibility and trust by leveraging organizational design and cost arbitrage benefits to increase output. However, the results are mixed, mainly because [Mythical Man-Month principles](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) still hold true.
 
 
 ### 2. Shared Ownership
@@ -51,7 +51,7 @@ Responsibilities are delineated along module or workstream boundaries due to tim
 
 At times, the nature of the product and/or the distribution of customers necessitates the adoption of a Shared Ownership model: For instance, this is applicable when a product demands a follow-the-sun model to maintain its availability and meet reliability SLOs, or when a product has a substantial customer base situated in the same geographic location as the satellite team.
 
-An alternative to the Shared Ownership model is where the mothership owns the core differentiators for a product, i.e., the more challenging aspects, while the satellite teams handle the easier, more commoditized components. The reasons for this are primarily consistent with why motherships are motherships: greater talent density, a history of ownership, a proven track record, and so on.
+An variation of the Shared Ownership model is where the mothership owns the core differentiators for a product, i.e., the more challenging aspects, while the satellite teams handle the easier, more commoditized components. The reasons for this are primarily consistent with why motherships are motherships: greater talent density, a history of ownership, a proven track record, and so on.
 
 A well-functioning shared responsibility model is often envisioned as the terminal state desired by the company's senior leadership. A successful outcome is frequently the result of a meticulously planned and well-executed [Inverse Conway's Maneuver](https://martinfowler.com/bliki/ConwaysLaw.html).
 
@@ -87,11 +87,11 @@ An executive at the mothership pioneers the offshore model for the first time th
 ## How to use this mental model?
 Personally, I have found this model to be valuable when assessing potential job offers.
 
-For instance, an offer from a team following a staff augmentation model can be viewed as an opportunity to lead the transition towards a shared ownership model, assuming alignment among the leaders at the satellite location.
+For instance, an offer from a team following a staff augmentation model can be viewed as an opportunity to lead the transition towards a shared ownership model, assuming alignment among the leaders at the satellite location. This can be a good opportunity to earn career growth via taking up more responsibilities. However, a lack of ambition from the leaders may lead to frustration.
 
-Likewise, a Total Ownership model can be considered as a means to achieve a better work-life balance with no calls and meetings beyond work hours, along with increased autonomy, and so on.
+Likewise, a Total Ownership model can be considered as a means to achieve a better work-life balance with no calls and meetings beyond work hours, along with increased autonomy. But this may come at the cost of career growth, assuming you are working on a product that is being sunsetted.
 
 A Shared Ownership model, on the other hand, offers the opportunity to be on equal footing with counterparts from the mothership. However, it may entail trade-offs such as frequent short-term trips, meetings scheduled beyond work hours, and navigating differences in work culture, among other considerations.
 
-Thus, there is no model of engagement that is inherently superior or inferior.
+Thus, there is no model of engagement that is inherently superior or inferior. It all depends on what you want out of a job.
 
