@@ -79,7 +79,7 @@ An executive at the mothership pioneers the offshore model for the first time th
 
 **Clusters on a spectrum:** It is useful to view this model as clusters on a spectrum, rather than as discrete, well-defined buckets.
 
-**Not a broad brush:**  It is most effective to apply this model in a very granular manner, specifically at a team or organizational level, rather than at the entire company level. It is not uncommon for different parts of a company to be at different points of the spectrum.
+**Not a broad brush:**  It is most effective to apply this model in a very granular manner, specifically at a team level, rather than at the entire company level. It is not uncommon for teams from different parts of a company to be at different points of the spectrum.
 
 **A point in time snapshot:** Teams are continually evolving, influenced by various tectonic forces. Therefore, it is beneficial to utilize this model to depict the state of a team or organization at a specific point in time, rather than as a permanent label.
 
