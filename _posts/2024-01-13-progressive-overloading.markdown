@@ -27,7 +27,7 @@ So, How far beyond your comfort zone do you dare to venture? I find it personall
 
 ![](/assets/2024-01-13/dr-andrew-ng.jpeg) 
 
-<sub>I am pretty sure I picked up the 80% rule advice from one of the Coursera lectures by Dr. Andrew Ng. </sub>
+<sup>I am pretty sure I picked up the 80% rule advice from one of the Coursera lectures by Dr. Andrew Ng. </sup>
 
 Taking on tasks at the 80% qualification level stretches your current limits, pushing them further. Upon completing the task, you achieve 100% qualification, as you've just successfully accomplished it. It's essentially a tautology. Consistently following the 80% rule will lead to the benefits compounding over time. Compounding is very powerful but typically non-intuitive.
 
