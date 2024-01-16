@@ -12,13 +12,13 @@ date:   2024-01-10 12:00:00 +0530
 ## What is Progressive Overload?
 Follow any accomplished strength training expert, and you will soon come across the principle called "Progressive Overload".
 
-The idea of Progressive Overload is simple. If a beginner can lift a specific weight for a given number of reps, they should consider adding a bit more weight to the bar: Continuously lifting the same weight won't enhance your ability to lift heavier weights.
+The idea of Progressive Overload is simple: If a beginner can lift a specific weight for a given number of reps, they should consider adding a bit more weight to the bar: Continuously lifting the same weight won't enhance their ability to lift heavier weights.
 
 Personally, I find the concept of progressive overload compelling. It involves identifying your comfort zone, making efforts to step out of it without going so far that failure is imminent, but just enough to induce growth while retaining a meaningful chance for success.
 
 
 ## Don't be an Expert Beginner.
-Remaining within the comfort zone for an extended period can lead to being an [Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/). An expert beginner possesses sufficient knowledge to tackle familiar problems, despite existing inadequacies and bad habits. However, their avoidance of more challenging problems prevents the awareness and correction of these shortcomings. The lack of exposure to demanding problems hinders growth, leaving them incapable of addressing higher-level challenges.
+Staying in the comfort zone for an extended period can lead to being an [Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/). An expert beginner possesses sufficient knowledge to tackle familiar problems, despite existing inadequacies and bad habits. However, their avoidance of more challenging problems prevents the awareness and correction of these shortcomings. The lack of exposure to demanding problems hinders growth, leaving them incapable of overcoming harder challenges.
 
 
 ## The 80% rule.
@@ -34,4 +34,4 @@ Taking on tasks at the 80% qualification level stretches your current limits, pu
 ![](/assets/2024-01-13/tiny-gains-graph.jpg)
 <sup>Compounding is very powerful but typically non-intuitive.</sup>
 
-Personally, I find the 80% rule to be a valuable mental model when choosing the next side project or setting goals. It becomes particularly useful when evaluating job offers: being 80% qualified for a role provides a solid foundation for success while allowing ample room for personal growth. Anything below or beyond the 80% threshold sets the stage for failure, even if the potential failure scenarios vary widely.
+Personally, I find the 80% rule to be a valuable mental model when choosing the next side project or setting goals. It becomes particularly useful when evaluating job offers: being 80% qualified for a role provides a solid foundation for success while allowing enough headroom for personal growth. Anything below or beyond the 80% threshold sets the stage for failure, even if the potential failure scenarios vary widely.
