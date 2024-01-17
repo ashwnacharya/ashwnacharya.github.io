@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Comparing yourselves to others"
+title:  "Comparing yourself to others"
 date:   2024-01-15 12:00:00 +0530
 ---
 
 ## TL-DR:
-* Use the [80% rule](2024/01/10/progressive-overloading) when comparing yourselves to others.
-* It can valuable provided you identify the way forward.
+* Use the [80% rule](2024/01/10/progressive-overloading) when comparing yourself to others.
+* Use it to identify the way forward.
 
 
 ## Comparison can be valuable.
