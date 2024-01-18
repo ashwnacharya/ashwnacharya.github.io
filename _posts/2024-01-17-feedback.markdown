@@ -9,7 +9,7 @@ published: false
 ## TL-DR:
 * Purpose of giving feedback is to induce improvement.
 * Find the smallest thing that has a good chance of landing well.
-* The harsher the feedback, more trust that is needed for it to land well.
+* The harsher the feedback, more the trust needed for it to land well.
 * More delayed the feedback, tougher the conversation.
 * It is not them, it is just the thing they do.
 * Mind your tone and body language.
