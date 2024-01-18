@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Some random thoughts about Feedback"
+date:   2024-01-17 12:00:00 +0530
+published: false
+
+---
+
+## TL-DR:
+* Purpose of giving feedback is to induce improvement.
+* Find the smallest thing that has a good chance of landing well.
+* The harsher the feedback, more trust that is needed for it to land well.
+* More delayed the feedback, tougher the conversation.
+* It is not them, it is just the thing they do.
+* Mind your tone and body language.
+* Always welcome feedback: it is telemetry.
+
