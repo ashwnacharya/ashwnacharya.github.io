@@ -10,11 +10,11 @@ date:   2024-01-07 12:00:00 +0530
 
 
 ## Why am I starting a blog now?
-I believe that I have valuable experience and insights on leading cloud and infrastructure teams, navigating careers in large enterprise companies, delivering high-quality software and solving hard problems.
+I believe that I have some experience and insights on leading cloud and infrastructure teams, navigating careers in large enterprise companies, delivering high-quality software and solving hard problems.
 
 Having recently relocated from 🇮🇳 to 🇳🇱, my ability to stay in my new country is closely tied to maintaining my employment here. Having a website and writing down things is a worthwhile endeavour in that regard: hopefully it serves as a public "proof of competence" and enhances my employability.
 
-Earlier, I was happy with just accumulating knowledge and experience and not really concerned about putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer and seldom a creator of well-crafted text. Also, not having public proof hasn't held me back from finding meaningful opportunities.
+Earlier, I was happy with just accumulating knowledge and experience and not really concerned about putting out proof. This was largely due to my lack of skills necessary for crafting well-edited content. I am mostly a consumer, but rarely a creator of well-crafted text. Also, not having public proof hasn't held me back from finding meaningful opportunities.
 
 However, with GenerativeAI being a thing now, obtaining competent editorial feedback is no longer a challenge.
 
@@ -41,7 +41,7 @@ This also imposes on me the responsibility of expressing views that I am willing
 ## Should I expand my reach?
 I am most definitely not looking to be an influencer. My [goal is to work on hard problems with smart, kind people](/2024/01/05/smart-kind-hard) and the vast majority of the people are.... not that. 
 
-Broadcasting my viewpoints feels pointless: I am not looking to invite attention or engage in debate with people I don't care about. Also, I also have no interest in imposing my perceived wisdom on those who haven't sought it willingly. Therefore, I am not proactively looking for engagement. Trying to expand my reach isn't really aligned with my goals.
+Broadcasting my viewpoints feels pointless: I am not looking to invite attention or engage in debate with people I don't care about. Also, I also have no interest in imposing my supposed wisdom on those who haven't sought it willingly. Therefore, I am not proactively looking for engagement. Trying to expand my reach isn't really my goal.
 
 
 ## Who would be reading my content?

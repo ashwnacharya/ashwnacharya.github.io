@@ -10,7 +10,7 @@ date:   2024-01-13 12:00:00 +0530
 
 
 ## What is Progressive Overload?
-Follow any accomplished strength training expert, and you will soon come across the principle called "Progressive Overload".
+If you are into strength training, and have followed any accomplished strength training expert, and you will soon come across the principle called "Progressive Overload".
 
 The idea of Progressive Overload is simple: If a beginner can lift a specific weight for a given number of reps, they should consider adding a bit more weight to the bar: Continuously lifting the same weight won't enhance their ability to lift heavier weights.
 
@@ -18,7 +18,7 @@ Personally, I find the concept of progressive overload compelling. It involves i
 
 
 ## Don't be an Expert Beginner.
-Staying in the comfort zone for an extended period can lead to being an [Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/). An expert beginner possesses sufficient knowledge to tackle familiar problems, despite existing inadequacies and bad habits. However, their avoidance of more challenging problems prevents the awareness and correction of these shortcomings. The lack of exposure to demanding problems hinders growth, leaving them incapable of overcoming harder challenges.
+Staying in the comfort zone for an extended period can lead to being an [Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/). An expert beginner possesses sufficient knowledge to tackle familiar problems, despite existing inadequacies and bad habits. However, an expert beginner avoids more challenging problems, either consciously or subconsciously. This  prevents the awareness and therefore a correction, of these shortcomings. The lack of exposure to demanding problems hinders growth, leaving them incapable of overcoming harder challenges.
 
 
 ## The 80% rule.
@@ -29,7 +29,7 @@ So, how far beyond your comfort zone do you dare to venture? I find it personall
 
 <sup>I am pretty sure I picked up the 80% rule advice from one of the lectures by Dr. Andrew Ng. </sup>
 
-Taking on tasks at the 80% qualification level stretches your current limits, pushing them further. Upon completing the task, you achieve 100% qualification, as you've just successfully accomplished it. It's essentially a tautology. Consistently following the 80% rule will lead to the benefits compounding over time. 
+Taking on tasks at that you are 80% qualified to tackle stretches your current limits and pushes them. Upon completing the task, you achieve 100% qualification, as you've just successfully accomplished it. It's essentially a tautology. Consistently following the 80% rule will lead to the benefits compounding over time. 
 
 ![](/assets/2024-01-13/tiny-gains-graph.jpg)
 <sup>Compounding is very powerful but typically non-intuitive.</sup>

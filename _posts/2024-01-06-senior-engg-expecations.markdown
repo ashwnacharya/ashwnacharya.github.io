@@ -9,9 +9,7 @@ date:   2024-01-06 12:00:00 +0530
 * Baseline expectations for Senior engineers need to evolve  from `Unproblematic While Collaborating` to `Proactively and positively Collaborative`.
 
 ## Disclaimers.
-These insights reflect my personal perspective, shaped through 15+ years as an Individual Contributor and a subsequent 2-year stint as an Engineering Manager, primarily at large enterprise organizations.
-
-Also, although most of my career so far has been in working in the Indian IT industry, I believe these views would hold water anywhere. I am yet to come across any good reasons for the below points to be not true elsewhere.
+This is my personal perspective: based on my 15+ years  as an Individual Contributor and a subsequent 2-year stint as an Engineering Manager, primarily at large US based enterprise organizations with offices in India. Your mileage may wary.
 
 ## What is the role of a Senior+ Engineer?
 
@@ -20,32 +18,33 @@ The role of a Senior+ engineer depends a lot on the organization. [Matt Klein](h
 ![](/assets/2024-01-06/matt-klein-quote.png)
 <sub>Matt Klein on Depth vs Breadth ICs</sub>
 
-I really like the depth vs. breadth insight: but I feel that there's additional nuance to consider.
+I really like the depth vs. breadth distinction: but I feel that there's additional nuance to consider.
 
 
 * First off, I personally like to think of this breadth vs depth IC distinction as two ends of a spectrum, as opposed to a dichotomy.
 
-* Context Acquisition and Influencing skills are always desirable in Individual Contributors, as are technical skills. **A complete lack of proficiency in either dimension is never acceptable.**
+* The "soft skills": ability to acquire context, collaboration, influence without authority, building relationships, etc are always desirable in Individual Contributors, as are technical skills. **A complete lack of proficiency in either dimension is never acceptable.**
 
-* In a role demanding deep technical specialization, a senior engineer *probably get away* with a lack of influencing skills.
+* In a role demanding deep technical specialization, a senior engineer *could probably get away* with less developed "soft" skills.
 
-* But in a rolewhere the most challenging problems involve business context and understanding the historical evolution of systems, these skills are essential.
+* But in a rolewhere the most challenging problems involve business context and understanding the historical evolution of systems, soft skills are essential.
 
-* A majority of companies are tech-enabled, focusing on leveraging technology as a means to an end, rather than being inherently deep-tech. Technology is mostly deployed to meet business goals, which are pragmatically addressed using fairly commoditized technologies. Therefore, deep-tech roles are scarce.
+* A majority of companies are tech-enabled, focusing on leveraging technology as a means to an end, rather than being inherently deep-tech. Technology is mostly deployed to meet business goals. It is often beneficial to meet business goals by pragmatically deploying fairly commoditized technologies. Therefore, deep-tech roles are scarce.
 ![](/assets//2024-01-06/tradeoffs.png)
 <sub>I am assuming there are more engineers who know how to build payment gateway integrations and CI/CD pipelines, than there are engineers who are working on developing new languages or new LLMs. Graph is merely indicative of the nicheness of the domain. Hope this does not land as disparaging.</sub>
 
-
-* Deep-tech roles are mostly for novel technologies. Most deep technologies of today become commoditized over time due to market forces, so a lucrative niche deep tech role isn’t forever: If such a role exists, it is bound to attract talented engineers, thus widening the talent pool. Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. And the Saas-fication of deep tech has only accelerated and will continue to do so.
+* Deep-tech roles are mostly for novel/niche technologies. Most deep technologies of today become commoditized over time due to market forces. So a lucrative niche deep tech role isn’t forever. If such a role exists, it is bound to attract talented engineers, thus widening the talent pool. Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. And the Saas-fication of deep tech has only accelerated and will continue to do so.
 
 ![](/assets/2024-01-06/commoditization.avif)
 <sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub. For the "sexiest jobs of the 21st century". </sub>
 
-*  Moreover, even at large deep-tech organizations, the hardest problems are solved by leveraging org-design and concentrating niche talents in a small ring-fenced team in a time-bound manner, to unlock the core differentiators. The rest of the teams mostly working on enabling and leveraging the core deep tech differentiators, again using commoditized technologies.
+*  Moreover, even at large deep-tech organizations, the hardest problems are solved by leveraging org-design and concentrating niche talents in a small ring-fenced team in a time-bound manner. These ring-fenced teams unlock the "core differentiator" for the company. The rest of the teams mostly working on enabling and leveraging the deep tech core deep differentiators, again using commoditized technologies.
 
-* Upon changing jobs or orgs, a breadth IC, unlike a depth IC,has to shed ALL their context and start afresh. So the most important skills that they can carry with them are their context acquisition and influencing ability.
+* Upon changing jobs or orgs, an individual contributor would carry some of their expertise: their knowledge of architecture patterns, best practices, war stories of what worked well and what didn't... But they have to shed ALL their context and start afresh. Because every company is different.
 
-Therefore, I believe that context acquisition and influencing skills are necessary for any Senior+ Engineer. A senior engineer cannot rely on deep tech skills alone.
+* So the most important skills that they can carry with them are their context acquisition and influencing ability.
+
+Therefore, I believe that context acquisition and influencing skills are necessary for any Senior+ Engineer. A senior engineer cannot rely on their tech skills alone.
 
 ![](/assets/2024-01-06/growth.png)
 <sub>How to grow as an Individual Contributor</sub>
@@ -67,14 +66,14 @@ Therefore, problem-solving at large companies require a deep understanding of co
 ![](/assets/2024-01-06/chesterton.webp)
 <sub>History is not a study of the past, it is about learning how we got here.</sub>
 
-Often, much of this context is not readily apparent or documented. Companies with comprehensive documentation are rarer than unicorns. The context isn't immediately evident; it needs to be teased out and extracted by patient, technically skilled engineers adept at proactively collaborating across organizational boundaries. 
+Often, a lot of context is not readily apparent or documented. Companies with comprehensive documentation are rarer than unicorns. The context isn't immediately evident; it needs to be teased out and extracted by patient, technically skilled engineers adept at proactively collaborating across organizational boundaries. 
 
 ## So what do I expect from Senior Engineers?
 **An accomplished Senior Engineer is expected to exhibit STATESMANSHIP, complemented by a proficiency in [Influence Without Authority](https://www.goodreads.com/en/book/show/123686).**
 
 A highly effective senior engineer is expected to navigate org boundaries and acquire context. They are expected to build relationships, form personal networks, create win-win situations, pick the right battles, resolve conflicts, [be an effective heretic...](https://medium.com/@royrapoport/that-burning-feeling-when-youre-right-cee8b8d05492)
 
-In fact, I firmly believe that a senior engineer's role should carry fundamental expectations of statesmanship, including mentorship, collaboration, negotiation, creating win-win situations, and the exercise of influence without authority. These attributes should be assessed both in the hiring process and when considering engineers for senior+ positions.
+In fact, I firmly believe that a senior engineer's role should carry fundamental expectations of statesmanship: mentorship, collaboration, negotiation, creating win-win situations, and the exercise of influence without authority. These attributes should be assessed both in the hiring process and when considering engineers for senior+ positions.
 
 ## How do companies get this wrong?
 It's not uncommon for companies to tolerate Senior Engineers with less-than-ideal "soft skills" solely because of their "technical prowess".
