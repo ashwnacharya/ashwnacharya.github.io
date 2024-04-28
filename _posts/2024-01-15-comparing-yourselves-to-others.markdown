@@ -12,7 +12,7 @@ date:   2024-01-15 12:00:00 +0530
 ## Comparison can be valuable.
 There's a lot of self-help literature which tell you that comparison is the thief of joy, and how your only competition should be your past self. These are generally sound principles.
 
-However, Personally, I find comparison to be useful in navigating my career, as long as I limit myself to comparing with those who are only slightly ahead of me within a similar timeframe.
+However, I personally find comparison to be useful in navigating my career: as long as I limit myself to comparing with those who are only slightly ahead of me.
 
 This for me, aligns neatly with the [80% rule](2024/01/10/progressive-overloading).
 
