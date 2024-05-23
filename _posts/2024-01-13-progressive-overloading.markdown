@@ -10,7 +10,7 @@ date:   2024-01-13 12:00:00 +0530
 
 
 ## What is Progressive Overload?
-If you are into strength training, and have followed any accomplished strength training expert, and you will soon come across the principle called "Progressive Overload".
+If you are into strength training, and have followed any accomplished strength training expert, and you will inevitably have come across the principle called "Progressive Overload".
 
 The idea of Progressive Overload is simple: If a beginner can lift a specific weight for a given number of reps, they should consider adding a bit more weight to the bar: Continuously lifting the same weight won't enhance their ability to lift heavier weights.
 
