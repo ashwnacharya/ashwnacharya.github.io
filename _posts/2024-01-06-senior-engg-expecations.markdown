@@ -82,13 +82,9 @@ A highly effective senior engineer should be expected to navigate org boundaries
 In fact, I firmly believe that a senior engineer's role should carry fundamental expectations of statesmanship: mentorship, collaboration, negotiation, creating win-win situations, and the exercise of influence without authority. These attributes should be assessed both in the hiring process and when considering engineers for senior+ positions.
 
 ## How do companies get this wrong?
-It's not uncommon for companies to tolerate Senior Engineers with less-than-ideal "soft skills" solely because of their "technical prowess".
+It's not uncommon for companies to tolerate Senior Engineers with less-than-ideal "soft skills" solely because of their "technical prowess". I hate the idea when a senior engineer role allows people to stay in their comfort zone, not have interactions with other teams and stakeholders. A senior role is not for those averse to engaging with people.
 
-I hate the idea when a senior engineer role allows people to stay in their comfort zone, not have interactions with other teams and stakeholders. A senior role is not for those averse to engaging with people.
-
-It is sad to see a lot of companies make this [wordcel vs shape rotator distinction](https://www.vice.com/en/article/pkpqzb/ok-wtf-are-wordcels-and-shape-rotators) as if it were an immutable law of nature.I think this is a big mistake. 
-
-A senior engineer should not be a recluse: they are not someone you summon only when faced with a highly technical problem that requires immediate attention. 
+It is sad to see a lot of companies make this [wordcel vs shape rotator distinction](https://www.vice.com/en/article/pkpqzb/ok-wtf-are-wordcels-and-shape-rotators) as if it were an immutable law of nature. A senior engineer should not be a recluse: they are not someone you summon only when faced with a highly technical problem that requires immediate attention. 
 
 
 ## What happens if you don't have this expectation?
