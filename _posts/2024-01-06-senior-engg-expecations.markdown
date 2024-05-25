@@ -24,7 +24,7 @@ I really like the depth vs. breadth distinction: but I feel that there's additio
 ### Spectrum, not a dichotomy
 First off, I personally like to think of this breadth vs depth IC distinction as two ends of a spectrum, as opposed to a dichotomy.
 
-The "soft skills": ability to acquire context, collaboration, influence without authority, building relationships, etc are always desirable in Individual Contributors, as are technical skills. **A complete lack of proficiency in either dimension is never acceptable.** In a role demanding deep technical specialization, a senior engineer *could probably get away* with less developed "soft" skills. But in a role where the most challenging problems involve business context and understanding the historical evolution of systems, soft skills are essential.
+The "soft" skills, i.e. ability to acquire context, collaboration, influence without authority, building relationships, etc are always desirable in Individual Contributors, as are technical skills. **A complete lack of proficiency in either dimension is never acceptable.** In a role demanding deep technical specialization, a senior engineer *could probably get away* with less developed "soft" skills. But in a role where the most challenging problems involve business context and understanding the historical evolution of systems, soft skills are essential.
 
 ![](/assets//2024-01-06/tradeoffs.png)
 <sub>I am assuming there are more engineers who know how to build payment gateway integrations and CI/CD pipelines, than there are engineers who are working on developing new languages or new LLMs. Graph is merely indicative of the nicheness of the domain. Hope this does not land as disparaging.</sub>
@@ -33,14 +33,21 @@ The "soft skills": ability to acquire context, collaboration, influence without 
 ### Most companies are tech-enabled.
 Most companies are tech-enabled, rather than deep tech companies. And I mean that in the most respectful, very non-pejorative way. Tech is rightly seen as a means to an end. Most companies do not produce tech for the sake of it, it is not the primary motivation. What they do instead is to deploy tech so that it would serve business goals in a scalable, cheap and sustainable manner.
 
-And that means deploying commodity tech as much as possible. The majority of companies strive to rely on widely adopted, well-established technology patterns: essentially, solutions to 'solved problems.
-A majority of companies are tech-enabled rather than deep-tech: they focus on leveraging technology as a means to an end. Technology is mostly deployed to meet business goals. It is often beneficial to meet business goals by pragmatically deploying fairly commoditized technologies. No one wants to risk their business on niche, esoteric tech. Also, Market forces ensure that most successful deep technologies become commoditized over time. So a lucrative niche deep tech role isn’t forever. If such a lucrative deep-tech role exists, it is bound to attract talented engineers, thus widening the talent pool. 
+And that means deploying commodity tech as much as possible. A business plan that relies on finding the best engineers that could leverage the most esoteric tech isn't a very good business plan. The vast majority of companies strive to rely on widely adopted, well-established technology patterns: essentially, solutions to 'solved problems'.
 
-Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. Saas-fication of deep tech has only accelerated and will continue to do so. Even at large deep-tech organizations, the hardest problems are solved by leveraging org-design and concentrating niche talent in a small ring-fenced team in a time-bound manner. These ring-fenced teams unlock the "core differentiator" for the company. The rest of the teams mostly working on enabling and leveraging the deep tech core deep differentiators, again using commoditized technologies. **Therefore, deep-tech roles are scarce. They  are mostly for novel/niche technologies.**
+
+Even if a company does leverage deep niche tech for providing a differentiator initially, any reasonable success tends to attract more practitioners of the aforementioned tech. A lucrative deep-tech role is bound to attract talented engineers, thus widening the talent pool. Market forces ensure that most successful deep technologies become commoditized over time. So a lucrative niche deep tech role isn’t forever.
 
 ![](/assets/2024-01-06/commoditization.avif)
 <sub>A photo from Ameerpet, Hyderabad. India's unofficial IT training hub. For the "sexiest jobs of the 21st century". </sub>
 
+
+### Deep tech roles are scarce
+Also, the core differentiator of that technology is bound to be commoditised through Saas-ification. Saas-fication of deep tech has only accelerated and will continue to do so. Even at large deep-tech organizations, the hardest problems are solved by leveraging org-design and concentrating niche talent in a small ring-fenced team in a time-bound manner. These ring-fenced teams unlock the "core differentiator" for the company. The rest of the teams are mostly working on enabling and leveraging the deep tech core deep differentiators, again using commoditized technologies. 
+
+
+![](/assets/2024-01-06/commodity-tech-lever.png)
+<sub>Commodity tech is the lever that generates business value. Deep tech is the differentiator </sub>
 
 
 ### Chesterton fences and historical context.
