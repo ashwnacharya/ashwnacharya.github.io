@@ -92,8 +92,4 @@ When companies lack a foundational expectation of influence, they not only set a
 
 Engineers who exhibit social skills and Influence without authority are perceived as exceptions, rather than the norm, and are often "rewarded" with managerial responsibilities. This not only does a disservice to the Engineering craft but also hinders progress by diverting the most influential engineers from where they are most needed: close to the code, interacting with other engineers.
 
-Considering that most companies are tech-enabled rather than deep-tech, they often do not intentionally provide avenues for Individual Contributors to develop deep specialization in highly technical fields. Moreover, career options for breadth ICs who prefer not to transition into management are relatively limited.
-
-Thus, a senior IC aspiring to persist on the IC path encounters what is essentially a glass ceiling.
-
-And... the business problems remain unsolved.
+Considering that most companies are tech-enabled rather than deep-tech, they often do not intentionally provide avenues for Individual Contributors to develop deep specialization in highly technical fields. Moreover, career options for breadth ICs who prefer not to transition into management are relatively limited. Thus, a senior IC aspiring to persist on the IC path encounters what is essentially a glass ceiling.
