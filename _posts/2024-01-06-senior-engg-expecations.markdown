@@ -47,7 +47,7 @@ Also, the core differentiator of that technology is bound to be commoditised thr
 
 
 ![](/assets/2024-01-06/commodity-tech-lever.png)
-<sub>Commodity tech is the lever that generates business value. Deep tech is the differentiator </sub>
+<sub>Commodity tech is the lever that generates business value. Deep tech is the differentiator.</sub>
 
 
 ### Chesterton fences and historical context.
