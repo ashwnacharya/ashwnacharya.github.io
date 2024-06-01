@@ -3,16 +3,29 @@ layout: post
 title:  "Some random thoughts about Feedback"
 date:   2024-02-17 12:00:00 +0530
 published: false
-
 ---
 
 ## TL-DR:
-* Purpose of giving feedback is to induce improvement.
-* Find the smallest thing that has a good chance of landing well.
-* The harsher the feedback, more the trust needed for it to land well.
+* Feedback is a gift
+* Purpose of feedback is improvement.
+* Trust is essential for feedback.
+* Retaliation is not feedback.
+* Find the smallest possible improvement that would still be received well.
 * More delayed the feedback, tougher the conversation.
 * It is not them, it is just the thing they do.
 * Mind your tone and body language.
-* Always welcome feedback: it is telemetry.
+* Feedback is telemetry.
+
+
+## Feedback is a gift
+Giving feedback is an act of kindness. You give feedback when you genuinely want someone to do better. By giving someone feedback, you are making them aware of a gap, a deficiency: converting an unknown to a known. This is an act of benevolence. 
 
 ## Purpose of giving feedback is to induce improvement.
+By converting an unknown deficiency to a known deficiency, you are empowering the receiver to improve. Feedback is essential for improvement.
+
+## Trust is essential for feedback.
+For someone to process your feedback well, they need to know that you are acting in their best interests, that you want the best for them. They need to be able to trust your judgement in order to respect your feedback. 
+
+
+$
+
