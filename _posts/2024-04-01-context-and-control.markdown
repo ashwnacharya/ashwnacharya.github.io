@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leading with context and role boundaries."
+title:  "About role boundaries, and leading with context."
 date:   2024-04-01 12:00:00 +0530
 published: true
 ---
@@ -35,6 +35,7 @@ published: true
 <sub>Roles dictate the ownership of certain decisions. Therefore, there are some decisions that are yours alone to make, by the nature of your role. You can, however, seek feedback before making them. But feedback that influenced a certain decision does not absolve you of the responsibility of owning the decision and its consequences.</sub>
 
 ![](/assets/2024-04-01/13-and-this-is-micromanaging.png)
+<sub>It is where you make decisions far beyond the scope of your role. Extreme example: think of a CEO dictating the use of tabs opposed to spaces.</sub>
 
 ![](/assets/2024-04-01/14-aka-leading-wth-control.png)
 
