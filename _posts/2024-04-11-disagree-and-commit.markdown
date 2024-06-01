@@ -21,12 +21,12 @@ I would often assist my father in conducting religious ceremonies. And help my m
 ![](/assets/2024-04-11/lvtemple2.jpeg)
 <sub>My father would sit inside the shrines. Sometimes, when required, I would sit on the platform on the right.</sub>
 
-I am not religious anymore. I am mostly agnostic. I am not an outright atheist: an irrational part of me is probably still scared of being wrong. [Pascal's wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and all that. 
+Nowadays, I am an agnostic; I am not an outright atheist: an irrational part of me is probably still scared of being wrong. [Pascal's wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) and all that. But I am mostly irreligous.
 
 
-But I think I have spent enough time studying and practicing my religion to boadly reject it. [Slavoj Žižek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) says that the only way to atheism is through religion. I agree. The only way to stop believing in something is by first striving to believing in it. 
+I think I have spent enough time studying and practicing my religion to boadly reject it. [Slavoj Žižek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) says that the only way to atheism is through religion. I agree. The only way to stop believing in something is by first striving to believing in it. 
 
-However, My religion is a big part of me. My mother is still very religious. And part of my duty as her son is to participate in my religion; to carry out duties that my religion requires of me. And I try my best to do that. With the utmost sincerity that I can muster.
+However, my religion is a big part of me. My mother is still very religious. And part of my duty as her son is to participate in my religion; to carry out duties that my religion requires of me. And I try my best to do that. With the utmost sincerity that I can muster.
 
 
 ## What does it mean to disagree?
