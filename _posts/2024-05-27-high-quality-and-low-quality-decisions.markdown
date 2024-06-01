@@ -6,9 +6,12 @@ published: true
 ---
 
 ## TL-DR:
-* There are good quality and bad quality decisions.
-* Quality of outcomes are sometimes unrelated by the quality of decisions.
-* A leader is evaluated based on the quality of their decisions. However, they are responsible for the outcomes.
+* There are {good|bad} quality {decisions|outcomes}.
+* quality_of_decisions = 𝑓(input metrics)
+* quality_of_outcomes = 𝑓(output_metrics)
+* outcomes = 𝑓(quality_of_decisions, luck)
+* Luck cannot be controlled, everything else can be.
+* A leader is evaluated based on the quality of their decisions and responsible for the outcomes.
 
 
 ## Difference between a decisions and outcomes
