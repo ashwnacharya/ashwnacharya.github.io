@@ -42,4 +42,4 @@ Rather, it is a call to
 * Decide if you still disagree with it.
     * And if you still do, then quarantine your disagreement and be a professional and commit to the success of a decision that has already been made. i.e. DO YOUR JOB.
 
-What this also means is that you can only "disagree and commit" to a decision that has already been made. Decisions that are yet to be made obviously cannot be committed to.
+What this also means is that you can only ask to "disagree and commit" to a decision that has already been made. Obviously, you cannot ask folks to commit to a decision that has not yet been made.
