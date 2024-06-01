@@ -55,7 +55,7 @@ The quality of a decision measured using input metrics. i,e: what goes in. A goo
 
 ![](https://imgs.xkcd.com/comics/voting_software.png)
 
-<sub>[xkcd 2030](https://xkcd.com/2030/)</sub>
+<sub>[xkcd 2030](https://xkcd.com/2030/). Unfortunately, Software engineering places a lot less premium on modelling the problem domain well, often at great costs.</sub>
 
 ### ...the quality of outcomes?
 On the other hand, the quality of an outcome is measured using output metrics: i.e. how well does your product solve the business problem at hand? How does it set the business and its customers up for success? Does it open new avenues and opportunities or does it rule them out? Does it walk through one-way doors or does it avoid them? 
