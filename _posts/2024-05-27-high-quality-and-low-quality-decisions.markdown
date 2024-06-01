@@ -6,10 +6,10 @@ published: true
 ---
 
 ## TL-DR:
-* There are {good|bad} quality {decisions|outcomes}.
-* quality_of_decisions = 𝑓(input metrics)
-* quality_of_outcomes = 𝑓(output_metrics)
-* outcomes = 𝑓(quality_of_decisions, luck)
+* There are `{good|bad}` quality `{decisions|outcomes}`.
+* `quality_of_decisions = 𝑓(input metrics)`
+* `quality_of_outcomes = 𝑓(output_metrics)`
+* `outcomes = 𝑓(quality_of_decisions, luck)`
 * Luck cannot be controlled, everything else can be.
 * A leader is evaluated based on the quality of their decisions and responsible for the outcomes.
 
