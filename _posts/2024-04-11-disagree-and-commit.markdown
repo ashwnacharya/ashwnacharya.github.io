@@ -15,7 +15,7 @@ It is important to make the distinction between "dislike" and "disagreement". Fo
 
 People often confuse "dislike" with "disagreement".
 
-A gut-feel, an instinctive reaction, is free. There is no effort involved. Every sentient human being has them.
+A gut-feel, an instinctive reaction, is free. Every sentient human being has them. There is no effort involved. 
 
 Disagreements, however, come at a cost: the time and effort spent to understand something well enough to disagree with it. You cannot really disagree with something you do not understand: because then it is a dislike, not disagreement per se. 
 
