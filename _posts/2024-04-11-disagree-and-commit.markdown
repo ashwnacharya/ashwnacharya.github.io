@@ -9,7 +9,7 @@ published: true
 * You need to understand something thoroughly enough to disagree with it.
 * You need to quarantine your disagreement in order to commit to a decision.
 
-## The precondition to "disagree and commit"
+## The precondition to "disagree and commit".
 Ideally, you try to lead with [Context, not control](/2024/04/01/context-and-control). Which means you do not make all the decisions yourselves. Rather, you make some decisions, and then provide context around those decisions to people you lead, so that they can make carry out their roles in meeting business objectives.
 
 In many cases, you *seek feedback* on a potential decision before making it. Hopefully, you make this decision after taking all the diverse viewpoints into account. Once you have all the feedback, the decision is yours alone to make, because you are "accountable" for the decision. 
