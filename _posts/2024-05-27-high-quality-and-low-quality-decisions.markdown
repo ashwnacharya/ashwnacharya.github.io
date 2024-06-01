@@ -10,9 +10,7 @@ published: true
 * `quality_of_decisions = 𝑓(input metrics)`
 * `quality_of_outcomes = 𝑓(output_metrics)`
 * `outcomes = 𝑓(quality_of_decisions, luck)`
-* Luck cannot be controlled, everything else can be.
-* A leader is evaluated based on the quality of their decisions and responsible for the outcomes.
-
+* `impact = 𝑓(quality_of_decisions, quality_of_outcomes)`
 
 ## Difference between a decisions and outcomes
 
@@ -63,12 +61,14 @@ The quality of a decision measured using input metrics. i,e: what goes in. A goo
 On the other hand, the quality of an outcome is measured using output metrics: i.e. how well does your product solve the business problem at hand? How does it set the business and its customers up for success? Does it open new avenues and opportunities or does it rule them out? Does it walk through one-way doors or does it avoid them? 
 
 
-## How are leaders evaluated?
-Leaders are judged for the quality of their decisions. However, they are rewarded for the quality of their outcomes. 
+## How is impact measured?
+Employees are rewarded for the impact that they have.
 
-Leaders get unlucky often. Luck does play a big part. However, reliance on luck, and the impact of bad luck can be minimised by modelling the problem domain as thoroughly as possible.
+Impact is a combination of the quality of the decisions, and quality of the outcomes. 
 
-Therefore, a leader's job is to maximise the probablity of good outcomes by making good quality decisions.
+We all get unlucky. Luck does play a big role in determining outcomes. However, reliance on luck can be minimised by modelling the problem domain as thoroughly as possible.
+
+Therefore, our job is to maximise impact: by maximising the probablity of good outcomes by making good quality decisions.
 
 
 
