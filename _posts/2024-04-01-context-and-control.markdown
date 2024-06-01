@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some thoughts about leadership."
+title:  "Some thoughts about leadering with context."
 date:   2024-04-01 12:00:00 +0530
 published: true
 ---
