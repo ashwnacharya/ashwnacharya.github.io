@@ -10,9 +10,10 @@ published: true
 ![](/assets/2024-04-01/01-you-are-here.png)
 
 ![](/assets/2024-04-01/02-you-want-to-be-here.png)
+<sub>Where you want to be, represents an outcome</sub>
 
 ![](/assets/2024-04-01/03-so-you-do-this.png)
-<sub>Note: Real world leadership is not 2 dimensional. However, the screen that you are reading this on, is. Therefore, this diagram is a 2D projection of an n-dimensional problem space.</sub>
+<sub>Note: Real world leadership is not 2 dimensional. However, the screen that you are reading this on, is. Therefore, this diagram is a 2D projection of an n-dimensional problem space. Also, One of those dimensions is time. No, not the x-axis. The points in space are centroids of your current and desired net state. At this point we are overthinking this. Just play along with me please...🤓</sub>
 
 ![](/assets/2024-04-01/04-and-directs-do-this.png)
 
@@ -50,5 +51,7 @@ published: true
 ![](/assets/2024-04-01/19-so-that-his-team-does-this.png)
 
 ![](/assets/2024-04-01/20-this-is-a-bad-leader-with-good-vision.png)
+<sub>A bad leader can still have some good ideas. However, they fail to create clarity and share context around those ideas, resulting in *misalignment*. </sub>
 
 ![](/assets/2024-04-01/21-and-this-is-a-good-leader-with-bad-vision.png)
+<sub>A good leader can still make decisions that turn out to be bad in hindsight. Where you thought you were going, may not be where you wanted to be. Because a good quality decision can still have bad outcomes. And that's okay.</sub>
