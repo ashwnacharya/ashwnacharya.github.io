@@ -2,7 +2,7 @@
 layout: post
 title:  "Some thoughts about leadership."
 date:   2024-04-01 12:00:00 +0530
-published: false
+published: true
 ---
 
 ![](/assets/2024-04-01/01-you-are-here.png)
