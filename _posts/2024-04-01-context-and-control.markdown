@@ -12,6 +12,7 @@ published: true
 ![](/assets/2024-04-01/02-you-want-to-be-here.png)
 
 ![](/assets/2024-04-01/03-so-you-do-this.png)
+<sub>Note: Real world leadership is not 2 dimensional. However, the screen that you are reading this on, is. Therefore, this diagram is a 2D projection of an n-dimensional problem space.</sub>
 
 ![](/assets/2024-04-01/04-and-directs-do-this.png)
 
@@ -30,6 +31,7 @@ published: true
 ![](/assets/2024-04-01/11-and-their-directs-this.png)
 
 ![](/assets/2024-04-01/12-these-are-role-boundaries.png)
+<sub>Roles dictate the ownership of certain decisions. Therefore, there are some decisions that are yours alone to make. You can, however, seek feedback before making them. But feedback that influenced a certain decision does not absolve you of the responsibility of owning it.</sub>
 
 ![](/assets/2024-04-01/13-and-this-is-micromanaging.png)
 
