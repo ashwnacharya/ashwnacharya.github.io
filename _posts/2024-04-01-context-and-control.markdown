@@ -31,7 +31,7 @@ published: true
 ![](/assets/2024-04-01/11-and-their-directs-this.png)
 
 ![](/assets/2024-04-01/12-these-are-role-boundaries.png)
-<sub>Roles dictate the ownership of certain decisions. Therefore, there are some decisions that are yours alone to make. You can, however, seek feedback before making them. But feedback that influenced a certain decision does not absolve you of the responsibility of owning it.</sub>
+<sub>Roles dictate the ownership of certain decisions. Therefore, there are some decisions that are yours alone to make, by the nature of your role. You can, however, seek feedback before making them. But feedback that influenced a certain decision does not absolve you of the responsibility of owning the decision and its consequences.</sub>
 
 ![](/assets/2024-04-01/13-and-this-is-micromanaging.png)
 
