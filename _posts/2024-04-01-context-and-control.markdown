@@ -41,6 +41,8 @@ published: true
 
 ![](/assets/2024-04-01/17-if-someone-is-doing-this.png)
 
+![](/assets/2024-04-01/17b-even-if-it-is-your-boss.png)
+
 ![](/assets/2024-04-01/18-but-a-good-leader-mostly-does-this.png)
 
 ![](/assets/2024-04-01/19-so-that-his-team-does-this.png)
