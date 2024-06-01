@@ -12,7 +12,7 @@ published: true
 * `outcomes = 𝑓(quality_of_decisions, luck)`
 * `impact = 𝑓(quality_of_decisions, quality_of_outcomes)`
 
-## Difference between a decisions and outcomes
+## Difference between decisions and outcomes
 
 ### Consider scenario 1:
 It is friday night. You are at a pub with your friends. It is 12 AM. You are slightly drunk. Your car is parked on the street. You get to your car, and then decide against driving home. You decide to walk instead. Because you don't want to drive while drunk. And you live not that far away. After all, You have safely made that walk many times before. You could just walk down to the pub tomorrow morning when you are sober, and take your car home. 
