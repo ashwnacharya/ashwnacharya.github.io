@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About role boundaries, and leading with context."
+title:  "About role boundaries, and leading with context"
 date:   2024-04-01 12:00:00 +0530
 published: true
 ---

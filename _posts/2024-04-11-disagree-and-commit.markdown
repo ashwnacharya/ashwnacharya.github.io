@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On disagree and commit."
+title:  "On disagree and commit"
 date:   2024-04-11 12:00:00 +0530
 published: true
 ---
