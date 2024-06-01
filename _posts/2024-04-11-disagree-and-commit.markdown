@@ -9,6 +9,13 @@ published: true
 * You need to understand something thoroughly enough to disagree with it.
 * You need to quarantine your disagreement in order to commit to a decision.
 
+## The precondition to "disagree and commit"
+Ideally, you try to lead with [Context, not control](/2024/04/01/context-and-control). Which means you do not make all the decisions yourselves. Rather, you make some decisions, and then provide context around those decisions to people you lead, so that they can make carry out their roles in meeting business objectives.
+
+In many cases, you *seek feedback* on a potential decision before making it. Hopefully, you make this decision after taking all the diverse viewpoints into account. Once you have all the feedback, the decision is yours alone to make, because you are "accountable" for the decision. 
+
+Therefore, a precondition to "disagree and commit" is a decision that has already been made. For a decision that has not been made, you are merely seeking feedback, not commitment.
+
 
 ## What does it mean to disagree?
 It is important to make the distinction between "dislike" and "disagreement". For me, a dislike is something instinctive, based on my gut-feeling about something.
@@ -33,12 +40,10 @@ The commitment that "disagree and commit" demands, therefore, is two-fold:
 * The second commitment is towards the decision itself: to quarantine your disagreement and not let it affect your actions: to commit to act in your full professional capacity to contribute to the success of that decision, despite you disagreeing with it.
 
 
-## What "disagree and commit" is not
+## What "disagree and commit" is not:
 "Disagree and commit" cannot be a call to follow orders without fully understanding them. 
 
 Rather, it is a call to:
 * Invest time and effort to understand the rationale behind a decision, get over your initial dislike, if any.
 * Decide if you still disagree with it.
-    * And if you still do, then quarantine your disagreement, be a professional and commit to the success of a decision that has already been made. i.e. DO YOUR JOB.
-
-What this also means is that you can only ask to "disagree and commit" to a decision that has already been made. Obviously, you cannot ask folks to commit to a decision that has not yet been made.
+* Regardless of your disagreement, commit to the success of a decision that has already been made. i.e. DO YOUR JOB.
