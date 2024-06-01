@@ -43,7 +43,7 @@ Output metrics are the parameters of the outcome you desire. Examples: Revenue. 
 In contrast, input metrics are parameters of the actions you control. They are a measure of how well you have modelled the problem space you are operating in: what do your customers say they want? What constraints are you operating under? How many people do you have to solve the problem at hand? What are their skillsets? What are the parameters of the current system? 
 
 ![](/assets/2024-05-27/input-output-metrics.png)
-<sub>You could check your weight every morning, and pose in front of the mirror every day. But it is not gonna get you any closer to your goal body.</sub>
+<sub>You could check your weight every morning, and pose in front of the mirror every day. But it is not gonna make you better looking.</sub>
 
 
 
