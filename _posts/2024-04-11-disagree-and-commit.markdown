@@ -36,10 +36,9 @@ The commitment that "disagree and commit" demands, therefore, is two-fold:
 ## What "disagree and commit" is not
 "Disagree and commit" cannot be a call to follow orders without fully understanding them. 
 
-Rather, it is a call to
-
+Rather, it is a call to:
 * Invest time and effort to understand the rationale behind a decision, get over your initial dislike, if any.
 * Decide if you still disagree with it.
-    * And if you still do, then quarantine your disagreement and be a professional and commit to the success of a decision that has already been made. i.e. DO YOUR JOB.
+    * And if you still do, then quarantine your disagreement, be a professional and commit to the success of a decision that has already been made. i.e. DO YOUR JOB.
 
 What this also means is that you can only ask to "disagree and commit" to a decision that has already been made. Obviously, you cannot ask folks to commit to a decision that has not yet been made.
